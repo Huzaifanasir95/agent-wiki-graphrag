@@ -1,0 +1,8 @@
+{
+  "vector_dimension": 384,
+  "total_articles": 1337,
+  "embedding_model": "all-MiniLM-L6-v2",
+  "graph_nodes": 1337,
+  "graph_edges": 11091,
+  "created_at": "2026-01-02T19:43:19.497903"
+}

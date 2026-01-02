@@ -1,0 +1,114 @@
+{
+  "timestamp": "2026-01-02",
+  "articles_verified": 4,
+  "total_claims": 48,
+  "verified_claims": 40,
+  "uncertain_claims": 8,
+  "refuted_claims": 0,
+  "overall_verification_rate": 0.8333333333333334,
+  "average_confidence": 0.5701659851897546,
+  "article_details": [
+    {
+      "article": "Deep_Learning_generated",
+      "verified_path": "d:\\Projects\\agent-wiki-graphrag\\outputs\\articles\\Deep_Learning_verified.md",
+      "total_claims": 12,
+      "verified": 11,
+      "uncertain": 1,
+      "refuted": 0,
+      "verification_rate": 0.9166666666666666,
+      "average_confidence": 0.5864074930548667,
+      "claims_by_section": {
+        "Introduction": 3,
+        "Overview": 1,
+        "History": 1,
+        "Key Concepts": 1,
+        "Applications": 1,
+        "Challenges and Limitations": 0,
+        "Future Directions": 1,
+        "See Also": 1,
+        "References": 3
+      },
+      "claims_by_type": {
+        "relationship": 9,
+        "attribute": 3
+      }
+    },
+    {
+      "article": "Machine_Learning_generated",
+      "verified_path": "d:\\Projects\\agent-wiki-graphrag\\outputs\\articles\\Machine_Learning_verified.md",
+      "total_claims": 11,
+      "verified": 10,
+      "uncertain": 1,
+      "refuted": 0,
+      "verification_rate": 0.9090909090909091,
+      "average_confidence": 0.5802253184896526,
+      "claims_by_section": {
+        "Introduction": 3,
+        "Definition and Overview": 1,
+        "History and Development": 1,
+        "How It Works": 1,
+        "Types and Variants": 1,
+        "Applications": 1,
+        "Advantages and Disadvantages": 0,
+        "Current Research": 1,
+        "See Also": 1,
+        "References": 1
+      },
+      "claims_by_type": {
+        "relationship": 9,
+        "attribute": 2
+      }
+    },
+    {
+      "article": "Natural_Language_Processing_generated",
+      "verified_path": "d:\\Projects\\agent-wiki-graphrag\\outputs\\articles\\Natural_Language_Processing_verified.md",
+      "total_claims": 10,
+      "verified": 9,
+      "uncertain": 1,
+      "refuted": 0,
+      "verification_rate": 0.9,
+      "average_confidence": 0.5764948401848475,
+      "claims_by_section": {
+        "Introduction": 3,
+        "Overview": 1,
+        "History": 1,
+        "Key Concepts": 1,
+        "Applications": 1,
+        "Challenges and Limitations": 0,
+        "Future Directions": 1,
+        "See Also": 0,
+        "References": 2
+      },
+      "claims_by_type": {
+        "relationship": 6,
+        "attribute": 4
+      }
+    },
+    {
+      "article": "Quantum_Computing_generated",
+      "verified_path": "d:\\Projects\\agent-wiki-graphrag\\outputs\\articles\\Quantum_Computing_verified.md",
+      "total_claims": 15,
+      "verified": 10,
+      "uncertain": 5,
+      "refuted": 0,
+      "verification_rate": 0.6666666666666666,
+      "average_confidence": 0.5375362890296512,
+      "claims_by_section": {
+        "Introduction": 3,
+        "Overview": 1,
+        "Theoretical Background": 1,
+        "Key Principles": 1,
+        "Experimental Evidence": 1,
+        "Applications": 1,
+        "Interpretations": 1,
+        "Current Research": 1,
+        "See Also": 2,
+        "References": 3
+      },
+      "claims_by_type": {
+        "relationship": 13,
+        "attribute": 2
+      }
+    }
+  ]
+}
