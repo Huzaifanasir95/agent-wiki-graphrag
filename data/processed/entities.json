@@ -1,0 +1,7790 @@
+{
+  "Artificial intelligence": [
+    {
+      "text": "AI",
+      "label": "GPE",
+      "start": 493,
+      "end": 495
+    },
+    {
+      "text": "Google Search",
+      "label": "ORG",
+      "start": 539,
+      "end": 552
+    },
+    {
+      "text": "YouTube",
+      "label": "ORG",
+      "start": 587,
+      "end": 594
+    },
+    {
+      "text": "Amazon",
+      "label": "ORG",
+      "start": 596,
+      "end": 602
+    },
+    {
+      "text": "Netflix",
+      "label": "GPE",
+      "start": 608,
+      "end": 615
+    },
+    {
+      "text": "Google",
+      "label": "ORG",
+      "start": 644,
+      "end": 650
+    },
+    {
+      "text": "Alexa",
+      "label": "ORG",
+      "start": 672,
+      "end": 677
+    },
+    {
+      "text": "Waymo",
+      "label": "WORK_OF_ART",
+      "start": 707,
+      "end": 712
+    },
+    {
+      "text": "AI",
+      "label": "GPE",
+      "start": 772,
+      "end": 774
+    },
+    {
+      "text": "AI",
+      "label": "GPE",
+      "start": 868,
+      "end": 870
+    },
+    {
+      "text": "AI",
+      "label": "GPE",
+      "start": 932,
+      "end": 934
+    },
+    {
+      "text": "AI",
+      "label": "GPE",
+      "start": 1002,
+      "end": 1004
+    },
+    {
+      "text": "AI",
+      "label": "ORG",
+      "start": 1085,
+      "end": 1087
+    },
+    {
+      "text": "AI",
+      "label": "GPE",
+      "start": 1119,
+      "end": 1121
+    },
+    {
+      "text": "AI",
+      "label": "GPE",
+      "start": 1226,
+      "end": 1228
+    },
+    {
+      "text": "AI",
+      "label": "ORG",
+      "start": 1392,
+      "end": 1394
+    },
+    {
+      "text": "AI",
+      "label": "ORG",
+      "start": 1622,
+      "end": 1624
+    },
+    {
+      "text": "OpenAI",
+      "label": "ORG",
+      "start": 1734,
+      "end": 1740
+    },
+    {
+      "text": "DeepMind",
+      "label": "PRODUCT",
+      "start": 1749,
+      "end": 1757
+    },
+    {
+      "text": "Meta",
+      "label": "ORG",
+      "start": 1762,
+      "end": 1766
+    },
+    {
+      "text": "1956",
+      "label": "DATE",
+      "start": 1966,
+      "end": 1970
+    },
+    {
+      "text": "AI",
+      "label": "GPE",
+      "start": 2119,
+      "end": 2121
+    },
+    {
+      "text": "2012",
+      "label": "DATE",
+      "start": 2175,
+      "end": 2179
+    },
+    {
+      "text": "AI",
+      "label": "GPE",
+      "start": 2301,
+      "end": 2303
+    },
+    {
+      "text": "2017",
+      "label": "DATE",
+      "start": 2354,
+      "end": 2358
+    },
+    {
+      "text": "the 2020s",
+      "label": "DATE",
+      "start": 2397,
+      "end": 2406
+    },
+    {
+      "text": "AI",
+      "label": "GPE",
+      "start": 2467,
+      "end": 2469
+    },
+    {
+      "text": "AI",
+      "label": "GPE",
+      "start": 2490,
+      "end": 2492
+    },
+    {
+      "text": "AI",
+      "label": "GPE",
+      "start": 2646,
+      "end": 2648
+    }
+  ],
+  "Machine learning": [
+    {
+      "text": "ML",
+      "label": "ORG",
+      "start": 18,
+      "end": 20
+    },
+    {
+      "text": "ML",
+      "label": "ORG",
+      "start": 639,
+      "end": 641
+    },
+    {
+      "text": "EDA",
+      "label": "ORG",
+      "start": 899,
+      "end": 902
+    }
+  ],
+  "Natural language processing": [
+    {
+      "text": "NLP",
+      "label": "ORG",
+      "start": 29,
+      "end": 32
+    },
+    {
+      "text": "NLP",
+      "label": "ORG",
+      "start": 99,
+      "end": 102
+    },
+    {
+      "text": "NLP",
+      "label": "ORG",
+      "start": 193,
+      "end": 196
+    },
+    {
+      "text": "NLP",
+      "label": "ORG",
+      "start": 351,
+      "end": 354
+    }
+  ],
+  "Computer vision": [
+    {
+      "text": "3D",
+      "label": "ORG",
+      "start": 908,
+      "end": 910
+    },
+    {
+      "text": "3D",
+      "label": "ORG",
+      "start": 920,
+      "end": 922
+    },
+    {
+      "text": "LiDaR",
+      "label": "ORG",
+      "start": 941,
+      "end": 946
+    },
+    {
+      "text": "3D",
+      "label": "ORG",
+      "start": 1277,
+      "end": 1279
+    }
+  ],
+  "Deep learning": [
+    {
+      "text": "three to several hundred or thousands",
+      "label": "DATE",
+      "start": 393,
+      "end": 430
+    }
+  ],
+  "Neural network": [
+    {
+      "text": "two",
+      "label": "CARDINAL",
+      "start": 273,
+      "end": 276
+    }
+  ],
+  "Transformer (machine learning model)": [
+    {
+      "text": "2017",
+      "label": "DATE",
+      "start": 899,
+      "end": 903
+    },
+    {
+      "text": "Attention Is All You Need",
+      "label": "WORK_OF_ART",
+      "start": 911,
+      "end": 936
+    },
+    {
+      "text": "Google",
+      "label": "ORG",
+      "start": 956,
+      "end": 962
+    },
+    {
+      "text": "BERT",
+      "label": "ORG",
+      "start": 1420,
+      "end": 1424
+    }
+  ],
+  "Large language model": [
+    {
+      "text": "language corpora",
+      "label": "PERSON",
+      "start": 511,
+      "end": 527
+    },
+    {
+      "text": "billions to trillions",
+      "label": "MONEY",
+      "start": 632,
+      "end": 653
+    },
+    {
+      "text": "2017",
+      "label": "DATE",
+      "start": 1205,
+      "end": 1209
+    },
+    {
+      "text": "GPT",
+      "label": "ORG",
+      "start": 1402,
+      "end": 1405
+    },
+    {
+      "text": "BERT",
+      "label": "ORG",
+      "start": 1407,
+      "end": 1411
+    },
+    {
+      "text": "LLM",
+      "label": "ORG",
+      "start": 1792,
+      "end": 1795
+    },
+    {
+      "text": "Hill",
+      "label": "PERSON",
+      "start": 2238,
+      "end": 2242
+    }
+  ],
+  "Quantum computing": [
+    {
+      "text": "Quantum",
+      "label": "ORG",
+      "start": 102,
+      "end": 109
+    },
+    {
+      "text": "one",
+      "label": "CARDINAL",
+      "start": 1313,
+      "end": 1316
+    },
+    {
+      "text": "two",
+      "label": "CARDINAL",
+      "start": 1320,
+      "end": 1323
+    },
+    {
+      "text": "two",
+      "label": "CARDINAL",
+      "start": 1388,
+      "end": 1391
+    },
+    {
+      "text": "one",
+      "label": "CARDINAL",
+      "start": 1468,
+      "end": 1471
+    },
+    {
+      "text": "two",
+      "label": "CARDINAL",
+      "start": 1479,
+      "end": 1482
+    },
+    {
+      "text": "Quantum",
+      "label": "ORG",
+      "start": 1794,
+      "end": 1801
+    }
+  ],
+  "Quantum mechanics": [
+    {
+      "text": "Quantum",
+      "label": "ORG",
+      "start": 0,
+      "end": 7
+    },
+    {
+      "text": "Quantum",
+      "label": "ORG",
+      "start": 353,
+      "end": 360
+    },
+    {
+      "text": "Quantum",
+      "label": "ORG",
+      "start": 758,
+      "end": 765
+    },
+    {
+      "text": "Quantum",
+      "label": "ORG",
+      "start": 1270,
+      "end": 1277
+    },
+    {
+      "text": "Max Planck's",
+      "label": "ORG",
+      "start": 1403,
+      "end": 1415
+    },
+    {
+      "text": "1900",
+      "label": "DATE",
+      "start": 1428,
+      "end": 1432
+    },
+    {
+      "text": "Albert Einstein's",
+      "label": "PERSON",
+      "start": 1525,
+      "end": 1542
+    },
+    {
+      "text": "1905",
+      "label": "DATE",
+      "start": 1543,
+      "end": 1547
+    },
+    {
+      "text": "the mid-1920s",
+      "label": "DATE",
+      "start": 1746,
+      "end": 1759
+    },
+    {
+      "text": "Niels Bohr",
+      "label": "PERSON",
+      "start": 1763,
+      "end": 1773
+    },
+    {
+      "text": "Erwin Schrödinger",
+      "label": "PERSON",
+      "start": 1775,
+      "end": 1792
+    },
+    {
+      "text": "Werner Heisenberg",
+      "label": "PERSON",
+      "start": 1794,
+      "end": 1811
+    },
+    {
+      "text": "Max Born",
+      "label": "PERSON",
+      "start": 1813,
+      "end": 1821
+    },
+    {
+      "text": "Paul Dirac",
+      "label": "PERSON",
+      "start": 1823,
+      "end": 1833
+    },
+    {
+      "text": "one",
+      "label": "CARDINAL",
+      "start": 1937,
+      "end": 1940
+    }
+  ],
+  "Theory of relativity": [
+    {
+      "text": "two",
+      "label": "CARDINAL",
+      "start": 35,
+      "end": 38
+    },
+    {
+      "text": "Albert Einstein",
+      "label": "PERSON",
+      "start": 59,
+      "end": 74
+    },
+    {
+      "text": "1905 and 1915",
+      "label": "DATE",
+      "start": 145,
+      "end": 158
+    },
+    {
+      "text": "the 20th century",
+      "label": "DATE",
+      "start": 488,
+      "end": 504
+    },
+    {
+      "text": "200-year-old",
+      "label": "DATE",
+      "start": 520,
+      "end": 532
+    },
+    {
+      "text": "Isaac Newton",
+      "label": "PERSON",
+      "start": 574,
+      "end": 586
+    },
+    {
+      "text": "4",
+      "label": "CARDINAL",
+      "start": 621,
+      "end": 622
+    }
+  ],
+  "Particle physics": [
+    {
+      "text": "three",
+      "label": "CARDINAL",
+      "start": 470,
+      "end": 475
+    },
+    {
+      "text": "first",
+      "label": "ORDINAL",
+      "start": 548,
+      "end": 553
+    },
+    {
+      "text": "first",
+      "label": "ORDINAL",
+      "start": 578,
+      "end": 583
+    },
+    {
+      "text": "three",
+      "label": "CARDINAL",
+      "start": 701,
+      "end": 706
+    },
+    {
+      "text": "Two",
+      "label": "CARDINAL",
+      "start": 1008,
+      "end": 1011
+    },
+    {
+      "text": "only a few hundredths",
+      "label": "DATE",
+      "start": 1145,
+      "end": 1166
+    },
+    {
+      "text": "the Standard Model",
+      "label": "PRODUCT",
+      "start": 1984,
+      "end": 2002
+    },
+    {
+      "text": "Hadron Collider",
+      "label": "PERSON",
+      "start": 2335,
+      "end": 2350
+    },
+    {
+      "text": "two",
+      "label": "CARDINAL",
+      "start": 2465,
+      "end": 2468
+    }
+  ],
+  "String theory": [
+    {
+      "text": "one",
+      "label": "CARDINAL",
+      "start": 123,
+      "end": 126
+    },
+    {
+      "text": "one",
+      "label": "CARDINAL",
+      "start": 452,
+      "end": 455
+    },
+    {
+      "text": "graviton",
+      "label": "ORG",
+      "start": 520,
+      "end": 528
+    },
+    {
+      "text": "first",
+      "label": "ORDINAL",
+      "start": 1497,
+      "end": 1502
+    },
+    {
+      "text": "the late 1960s",
+      "label": "DATE",
+      "start": 1514,
+      "end": 1528
+    },
+    {
+      "text": "Five",
+      "label": "CARDINAL",
+      "start": 2083,
+      "end": 2087
+    },
+    {
+      "text": "the mid-1990s",
+      "label": "DATE",
+      "start": 2174,
+      "end": 2187
+    },
+    {
+      "text": "eleven",
+      "label": "CARDINAL",
+      "start": 2254,
+      "end": 2260
+    },
+    {
+      "text": "late 1997",
+      "label": "DATE",
+      "start": 2294,
+      "end": 2303
+    },
+    {
+      "text": "AdS",
+      "label": "ORG",
+      "start": 2417,
+      "end": 2420
+    },
+    {
+      "text": "One",
+      "label": "CARDINAL",
+      "start": 2536,
+      "end": 2539
+    }
+  ],
+  "Algorithm": [
+    {
+      "text": "one",
+      "label": "CARDINAL",
+      "start": 1217,
+      "end": 1220
+    }
+  ],
+  "Data structure": [],
+  "Python (programming language)": [
+    {
+      "text": "van Rossum",
+      "label": "PERSON",
+      "start": 353,
+      "end": 363
+    },
+    {
+      "text": "the late 1980s",
+      "label": "DATE",
+      "start": 391,
+      "end": 405
+    },
+    {
+      "text": "ABC",
+      "label": "ORG",
+      "start": 428,
+      "end": 431
+    },
+    {
+      "text": "3.0",
+      "label": "CARDINAL",
+      "start": 461,
+      "end": 464
+    },
+    {
+      "text": "2008",
+      "label": "DATE",
+      "start": 478,
+      "end": 482
+    },
+    {
+      "text": "3.5",
+      "label": "CARDINAL",
+      "start": 589,
+      "end": 592
+    },
+    {
+      "text": "2025",
+      "label": "DATE",
+      "start": 698,
+      "end": 702
+    },
+    {
+      "text": "the Python Software Foundation",
+      "label": "ORG",
+      "start": 704,
+      "end": 734
+    },
+    {
+      "text": "3.10",
+      "label": "CARDINAL",
+      "start": 751,
+      "end": 755
+    },
+    {
+      "text": "3.11",
+      "label": "CARDINAL",
+      "start": 757,
+      "end": 761
+    },
+    {
+      "text": "3.12",
+      "label": "CARDINAL",
+      "start": 763,
+      "end": 767
+    },
+    {
+      "text": "3.13",
+      "label": "CARDINAL",
+      "start": 769,
+      "end": 773
+    },
+    {
+      "text": "3.14",
+      "label": "CARDINAL",
+      "start": 779,
+      "end": 783
+    },
+    {
+      "text": "annual",
+      "label": "DATE",
+      "start": 808,
+      "end": 814
+    },
+    {
+      "text": "five-year",
+      "label": "DATE",
+      "start": 833,
+      "end": 842
+    },
+    {
+      "text": "3.x",
+      "label": "CARDINAL",
+      "start": 883,
+      "end": 886
+    },
+    {
+      "text": "2003",
+      "label": "DATE",
+      "start": 1094,
+      "end": 1098
+    },
+    {
+      "text": "Python",
+      "label": "ORG",
+      "start": 1100,
+      "end": 1106
+    },
+    {
+      "text": "ten",
+      "label": "CARDINAL",
+      "start": 1142,
+      "end": 1145
+    },
+    {
+      "text": "24",
+      "label": "CARDINAL",
+      "start": 1263,
+      "end": 1265
+    }
+  ],
+  "Software engineering": [
+    {
+      "text": "Software",
+      "label": "ORG",
+      "start": 0,
+      "end": 8
+    }
+  ],
+  "Cloud computing": [
+    {
+      "text": "ISO",
+      "label": "ORG",
+      "start": 34,
+      "end": 37
+    }
+  ],
+  "Linear algebra": [
+    {
+      "text": "Linear",
+      "label": "ORG",
+      "start": 0,
+      "end": 6
+    },
+    {
+      "text": "linear",
+      "label": "ORG",
+      "start": 55,
+      "end": 61
+    },
+    {
+      "text": "1",
+      "label": "CARDINAL",
+      "start": 82,
+      "end": 83
+    },
+    {
+      "text": "1 + ⋯ +",
+      "label": "DATE",
+      "start": 86,
+      "end": 93
+    },
+    {
+      "text": "1",
+      "label": "CARDINAL",
+      "start": 181,
+      "end": 182
+    },
+    {
+      "text": "1",
+      "label": "CARDINAL",
+      "start": 199,
+      "end": 200
+    },
+    {
+      "text": "1 + ⋯ +",
+      "label": "DATE",
+      "start": 203,
+      "end": 210
+    },
+    {
+      "text": "\\displaystyle",
+      "label": "PERSON",
+      "start": 222,
+      "end": 235
+    },
+    {
+      "text": "x_{n})\\mapsto a_{1}x_{1}+\\cdots +a_{n}x_{n",
+      "label": "PERSON",
+      "start": 251,
+      "end": 293
+    },
+    {
+      "text": "Linear",
+      "label": "ORG",
+      "start": 362,
+      "end": 368
+    },
+    {
+      "text": "linear",
+      "label": "ORG",
+      "start": 438,
+      "end": 444
+    },
+    {
+      "text": "linear",
+      "label": "ORG",
+      "start": 677,
+      "end": 683
+    },
+    {
+      "text": "Linear",
+      "label": "ORG",
+      "start": 712,
+      "end": 718
+    },
+    {
+      "text": "linear",
+      "label": "ORG",
+      "start": 930,
+      "end": 936
+    },
+    {
+      "text": "first",
+      "label": "ORDINAL",
+      "start": 980,
+      "end": 985
+    }
+  ],
+  "Calculus": [
+    {
+      "text": "two",
+      "label": "CARDINAL",
+      "start": 262,
+      "end": 265
+    },
+    {
+      "text": "two",
+      "label": "CARDINAL",
+      "start": 509,
+      "end": 512
+    },
+    {
+      "text": "the late 17th century",
+      "label": "DATE",
+      "start": 900,
+      "end": 921
+    },
+    {
+      "text": "Isaac Newton",
+      "label": "PERSON",
+      "start": 923,
+      "end": 935
+    },
+    {
+      "text": "Gottfried Wilhelm Leibniz",
+      "label": "PERSON",
+      "start": 940,
+      "end": 965
+    }
+  ],
+  "Graph theory": [
+    {
+      "text": "two",
+      "label": "CARDINAL",
+      "start": 366,
+      "end": 369
+    },
+    {
+      "text": "two",
+      "label": "CARDINAL",
+      "start": 432,
+      "end": 435
+    },
+    {
+      "text": "one",
+      "label": "CARDINAL",
+      "start": 472,
+      "end": 475
+    }
+  ],
+  "Statistics": [
+    {
+      "text": "German",
+      "label": "NORP",
+      "start": 17,
+      "end": 23
+    },
+    {
+      "text": "Two",
+      "label": "CARDINAL",
+      "start": 1266,
+      "end": 1269
+    },
+    {
+      "text": "two",
+      "label": "CARDINAL",
+      "start": 1636,
+      "end": 1639
+    },
+    {
+      "text": "two",
+      "label": "CARDINAL",
+      "start": 2186,
+      "end": 2189
+    },
+    {
+      "text": "two",
+      "label": "CARDINAL",
+      "start": 2347,
+      "end": 2350
+    },
+    {
+      "text": "two",
+      "label": "CARDINAL",
+      "start": 2436,
+      "end": 2439
+    },
+    {
+      "text": "two",
+      "label": "CARDINAL",
+      "start": 2664,
+      "end": 2667
+    }
+  ],
+  "Probability theory": [
+    {
+      "text": "1",
+      "label": "CARDINAL",
+      "start": 410,
+      "end": 411
+    },
+    {
+      "text": "Two",
+      "label": "CARDINAL",
+      "start": 984,
+      "end": 987
+    },
+    {
+      "text": "twentieth-century",
+      "label": "DATE",
+      "start": 1452,
+      "end": 1469
+    }
+  ],
+  "15.ai": [
+    {
+      "text": "15.ai",
+      "label": "CARDINAL",
+      "start": 0,
+      "end": 5
+    },
+    {
+      "text": "15",
+      "label": "CARDINAL",
+      "start": 250,
+      "end": 252
+    },
+    {
+      "text": "the Massachusetts Institute of Technology",
+      "label": "ORG",
+      "start": 343,
+      "end": 384
+    },
+    {
+      "text": "MIT",
+      "label": "ORG",
+      "start": 386,
+      "end": 389
+    },
+    {
+      "text": "just 15 seconds",
+      "label": "TIME",
+      "start": 703,
+      "end": 718
+    },
+    {
+      "text": "AI",
+      "label": "GPE",
+      "start": 842,
+      "end": 844
+    },
+    {
+      "text": "March 2020",
+      "label": "DATE",
+      "start": 863,
+      "end": 873
+    },
+    {
+      "text": "early 2021",
+      "label": "DATE",
+      "start": 914,
+      "end": 924
+    },
+    {
+      "text": "the My Little Pony: Friendship Is Magic, Team Fortress 2",
+      "label": "ORG",
+      "start": 1044,
+      "end": 1100
+    },
+    {
+      "text": "SpongeBob SquarePants",
+      "label": "ORG",
+      "start": 1106,
+      "end": 1127
+    },
+    {
+      "text": "15.ai",
+      "label": "CARDINAL",
+      "start": 1271,
+      "end": 1276
+    },
+    {
+      "text": "non-English",
+      "label": "NORP",
+      "start": 1379,
+      "end": 1390
+    },
+    {
+      "text": "15.ai",
+      "label": "CARDINAL",
+      "start": 1463,
+      "end": 1468
+    },
+    {
+      "text": "first",
+      "label": "ORDINAL",
+      "start": 1488,
+      "end": 1493
+    },
+    {
+      "text": "AI",
+      "label": "ORG",
+      "start": 1517,
+      "end": 1519
+    },
+    {
+      "text": "15.ai",
+      "label": "CARDINAL",
+      "start": 1613,
+      "end": 1618
+    },
+    {
+      "text": "January 2022",
+      "label": "DATE",
+      "start": 1724,
+      "end": 1736
+    },
+    {
+      "text": "Voiceverse",
+      "label": "PERSON",
+      "start": 1778,
+      "end": 1788
+    },
+    {
+      "text": "15.ai",
+      "label": "CARDINAL",
+      "start": 1821,
+      "end": 1826
+    },
+    {
+      "text": "NFT",
+      "label": "ORG",
+      "start": 1942,
+      "end": 1945
+    },
+    {
+      "text": "15.ai",
+      "label": "CARDINAL",
+      "start": 2061,
+      "end": 2066
+    },
+    {
+      "text": "September 2022",
+      "label": "DATE",
+      "start": 2096,
+      "end": 2110
+    },
+    {
+      "text": "May 18, 2025",
+      "label": "DATE",
+      "start": 2365,
+      "end": 2377
+    },
+    {
+      "text": "15",
+      "label": "DATE",
+      "start": 2379,
+      "end": 2381
+    },
+    {
+      "text": "15.ai",
+      "label": "CARDINAL",
+      "start": 2415,
+      "end": 2420
+    }
+  ],
+  "2001: A Space Odyssey": [
+    {
+      "text": "2001",
+      "label": "DATE",
+      "start": 0,
+      "end": 4
+    },
+    {
+      "text": "1968",
+      "label": "DATE",
+      "start": 27,
+      "end": 31
+    },
+    {
+      "text": "Stanley Kubrick",
+      "label": "PERSON",
+      "start": 83,
+      "end": 98
+    },
+    {
+      "text": "Arthur C. Clarke",
+      "label": "PERSON",
+      "start": 133,
+      "end": 149
+    },
+    {
+      "text": "Clarke",
+      "label": "GPE",
+      "start": 212,
+      "end": 218
+    },
+    {
+      "text": "The Sentinel",
+      "label": "WORK_OF_ART",
+      "start": 231,
+      "end": 243
+    },
+    {
+      "text": "1951",
+      "label": "DATE",
+      "start": 246,
+      "end": 250
+    },
+    {
+      "text": "Encounter in the Dawn",
+      "label": "WORK_OF_ART",
+      "start": 257,
+      "end": 278
+    },
+    {
+      "text": "1953",
+      "label": "DATE",
+      "start": 281,
+      "end": 285
+    },
+    {
+      "text": "Keir Dullea",
+      "label": "PERSON",
+      "start": 303,
+      "end": 314
+    },
+    {
+      "text": "Gary Lockwood",
+      "label": "PERSON",
+      "start": 316,
+      "end": 329
+    },
+    {
+      "text": "William Sylvester",
+      "label": "PERSON",
+      "start": 331,
+      "end": 348
+    },
+    {
+      "text": "Douglas Rain",
+      "label": "PERSON",
+      "start": 354,
+      "end": 366
+    },
+    {
+      "text": "9000",
+      "label": "PRODUCT",
+      "start": 451,
+      "end": 455
+    },
+    {
+      "text": "Jupiter",
+      "label": "LOC",
+      "start": 459,
+      "end": 466
+    },
+    {
+      "text": "Kubrick",
+      "label": "PERSON",
+      "start": 627,
+      "end": 634
+    },
+    {
+      "text": "2001",
+      "label": "DATE",
+      "start": 853,
+      "end": 857
+    },
+    {
+      "text": "Richard Strauss",
+      "label": "PERSON",
+      "start": 955,
+      "end": 970
+    },
+    {
+      "text": "Johann Strauss II",
+      "label": "PERSON",
+      "start": 972,
+      "end": 989
+    },
+    {
+      "text": "Aram Khachaturian",
+      "label": "PERSON",
+      "start": 991,
+      "end": 1008
+    },
+    {
+      "text": "György Ligeti",
+      "label": "PERSON",
+      "start": 1014,
+      "end": 1027
+    },
+    {
+      "text": "2001",
+      "label": "DATE",
+      "start": 1067,
+      "end": 1071
+    },
+    {
+      "text": "four",
+      "label": "CARDINAL",
+      "start": 1405,
+      "end": 1409
+    },
+    {
+      "text": "Kubrick",
+      "label": "PERSON",
+      "start": 1434,
+      "end": 1441
+    },
+    {
+      "text": "Academy Award",
+      "label": "ORG",
+      "start": 1502,
+      "end": 1515
+    },
+    {
+      "text": "1991",
+      "label": "DATE",
+      "start": 1640,
+      "end": 1644
+    },
+    {
+      "text": "the United States",
+      "label": "ORG",
+      "start": 1665,
+      "end": 1682
+    },
+    {
+      "text": "Congress",
+      "label": "ORG",
+      "start": 1694,
+      "end": 1702
+    },
+    {
+      "text": "the National Film Registry",
+      "label": "ORG",
+      "start": 1723,
+      "end": 1749
+    },
+    {
+      "text": "2022",
+      "label": "DATE",
+      "start": 1754,
+      "end": 1758
+    },
+    {
+      "text": "2001",
+      "label": "DATE",
+      "start": 1760,
+      "end": 1764
+    },
+    {
+      "text": "ten",
+      "label": "CARDINAL",
+      "start": 1800,
+      "end": 1803
+    },
+    {
+      "text": "Sight & Sound's",
+      "label": "ORG",
+      "start": 1807,
+      "end": 1822
+    },
+    {
+      "text": "2010",
+      "label": "DATE",
+      "start": 1892,
+      "end": 1896
+    },
+    {
+      "text": "The Year We Make Contact",
+      "label": "EVENT",
+      "start": 1898,
+      "end": 1922
+    },
+    {
+      "text": "1984",
+      "label": "DATE",
+      "start": 1940,
+      "end": 1944
+    },
+    {
+      "text": "Clarke",
+      "label": "ORG",
+      "start": 1962,
+      "end": 1968
+    },
+    {
+      "text": "2010",
+      "label": "DATE",
+      "start": 1977,
+      "end": 1981
+    },
+    {
+      "text": "Two",
+      "label": "CARDINAL",
+      "start": 1991,
+      "end": 1994
+    },
+    {
+      "text": "Kubrick",
+      "label": "GPE",
+      "start": 2012,
+      "end": 2019
+    },
+    {
+      "text": "Clarke",
+      "label": "ORG",
+      "start": 2035,
+      "end": 2041
+    },
+    {
+      "text": "2001",
+      "label": "DATE",
+      "start": 2070,
+      "end": 2074
+    },
+    {
+      "text": "1968",
+      "label": "DATE",
+      "start": 2148,
+      "end": 2152
+    },
+    {
+      "text": "Kubrick",
+      "label": "PERSON",
+      "start": 2172,
+      "end": 2179
+    }
+  ],
+  "2001: A Space Odyssey (novel)": [
+    {
+      "text": "2001",
+      "label": "DATE",
+      "start": 0,
+      "end": 4
+    },
+    {
+      "text": "1968",
+      "label": "DATE",
+      "start": 27,
+      "end": 31
+    },
+    {
+      "text": "English",
+      "label": "NORP",
+      "start": 57,
+      "end": 64
+    },
+    {
+      "text": "Arthur C. Clarke",
+      "label": "PERSON",
+      "start": 72,
+      "end": 88
+    },
+    {
+      "text": "Stanley Kubrick's",
+      "label": "PERSON",
+      "start": 125,
+      "end": 142
+    },
+    {
+      "text": "Clarke",
+      "label": "ORG",
+      "start": 201,
+      "end": 207
+    },
+    {
+      "text": "Kubrick",
+      "label": "GPE",
+      "start": 212,
+      "end": 219
+    },
+    {
+      "text": "Clarke",
+      "label": "ORG",
+      "start": 269,
+      "end": 275
+    },
+    {
+      "text": "Clarke",
+      "label": "ORG",
+      "start": 364,
+      "end": 370
+    },
+    {
+      "text": "The Sentinel",
+      "label": "WORK_OF_ART",
+      "start": 383,
+      "end": 395
+    },
+    {
+      "text": "1948",
+      "label": "DATE",
+      "start": 409,
+      "end": 413
+    },
+    {
+      "text": "BBC",
+      "label": "ORG",
+      "start": 420,
+      "end": 423
+    },
+    {
+      "text": "first",
+      "label": "ORDINAL",
+      "start": 441,
+      "end": 446
+    },
+    {
+      "text": "1951",
+      "label": "DATE",
+      "start": 460,
+      "end": 464
+    },
+    {
+      "text": "Sentinel of Eternity",
+      "label": "WORK_OF_ART",
+      "start": 482,
+      "end": 502
+    },
+    {
+      "text": "1992",
+      "label": "DATE",
+      "start": 509,
+      "end": 513
+    },
+    {
+      "text": "three million",
+      "label": "CARDINAL",
+      "start": 534,
+      "end": 547
+    },
+    {
+      "text": "Clarke",
+      "label": "ORG",
+      "start": 584,
+      "end": 590
+    },
+    {
+      "text": "Kubrick",
+      "label": "GPE",
+      "start": 595,
+      "end": 602
+    },
+    {
+      "text": "1972",
+      "label": "DATE",
+      "start": 656,
+      "end": 660
+    },
+    {
+      "text": "The Lost Worlds of 2001",
+      "label": "WORK_OF_ART",
+      "start": 666,
+      "end": 689
+    },
+    {
+      "text": "first",
+      "label": "ORDINAL",
+      "start": 695,
+      "end": 700
+    },
+    {
+      "text": "Clarke",
+      "label": "ORG",
+      "start": 807,
+      "end": 813
+    },
+    {
+      "text": "1953",
+      "label": "DATE",
+      "start": 816,
+      "end": 820
+    },
+    {
+      "text": "Encounter in the Dawn",
+      "label": "WORK_OF_ART",
+      "start": 834,
+      "end": 855
+    }
+  ],
+  "2024 Indian general election": [
+    {
+      "text": "India",
+      "label": "GPE",
+      "start": 31,
+      "end": 36
+    },
+    {
+      "text": "19 April to 1 June 2024",
+      "label": "DATE",
+      "start": 42,
+      "end": 65
+    },
+    {
+      "text": "seven",
+      "label": "CARDINAL",
+      "start": 69,
+      "end": 74
+    },
+    {
+      "text": "543",
+      "label": "CARDINAL",
+      "start": 96,
+      "end": 99
+    },
+    {
+      "text": "the Lok Sabha",
+      "label": "ORG",
+      "start": 111,
+      "end": 124
+    },
+    {
+      "text": "4 June",
+      "label": "DATE",
+      "start": 176,
+      "end": 182
+    },
+    {
+      "text": "18th",
+      "label": "ORDINAL",
+      "start": 195,
+      "end": 199
+    },
+    {
+      "text": "7 June 2024",
+      "label": "DATE",
+      "start": 214,
+      "end": 225
+    },
+    {
+      "text": "Narendra Modi",
+      "label": "PERSON",
+      "start": 242,
+      "end": 255
+    },
+    {
+      "text": "293",
+      "label": "CARDINAL",
+      "start": 281,
+      "end": 284
+    },
+    {
+      "text": "Droupadi Murmu",
+      "label": "PERSON",
+      "start": 292,
+      "end": 306
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start": 325,
+      "end": 330
+    },
+    {
+      "text": "Modi",
+      "label": "GPE",
+      "start": 344,
+      "end": 348
+    },
+    {
+      "text": "third",
+      "label": "ORDINAL",
+      "start": 351,
+      "end": 356
+    },
+    {
+      "text": "first",
+      "label": "ORDINAL",
+      "start": 388,
+      "end": 393
+    },
+    {
+      "text": "the Telugu Desam Party of Andhra Pradesh",
+      "label": "ORG",
+      "start": 436,
+      "end": 476
+    },
+    {
+      "text": "Janata Dal",
+      "label": "PERSON",
+      "start": 481,
+      "end": 491
+    },
+    {
+      "text": "Bihar",
+      "label": "GPE",
+      "start": 504,
+      "end": 509
+    },
+    {
+      "text": "two",
+      "label": "CARDINAL",
+      "start": 522,
+      "end": 525
+    },
+    {
+      "text": "More than 968 million",
+      "label": "CARDINAL",
+      "start": 539,
+      "end": 560
+    },
+    {
+      "text": "1.4 billion",
+      "label": "CARDINAL",
+      "start": 591,
+      "end": 602
+    },
+    {
+      "text": "70 percent",
+      "label": "PERCENT",
+      "start": 647,
+      "end": 657
+    },
+    {
+      "text": "642 million",
+      "label": "CARDINAL",
+      "start": 683,
+      "end": 694
+    },
+    {
+      "text": "312 million",
+      "label": "CARDINAL",
+      "start": 732,
+      "end": 743
+    },
+    {
+      "text": "44 days",
+      "label": "DATE",
+      "start": 894,
+      "end": 901
+    },
+    {
+      "text": "second",
+      "label": "ORDINAL",
+      "start": 903,
+      "end": 909
+    },
+    {
+      "text": "1951–52",
+      "label": "ORDINAL",
+      "start": 922,
+      "end": 929
+    },
+    {
+      "text": "Indian",
+      "label": "NORP",
+      "start": 930,
+      "end": 936
+    },
+    {
+      "text": "Andhra Pradesh",
+      "label": "ORG",
+      "start": 1007,
+      "end": 1021
+    },
+    {
+      "text": "Arunachal Pradesh",
+      "label": "ORG",
+      "start": 1023,
+      "end": 1040
+    },
+    {
+      "text": "Odisha",
+      "label": "GPE",
+      "start": 1042,
+      "end": 1048
+    },
+    {
+      "text": "Sikkim",
+      "label": "PERSON",
+      "start": 1054,
+      "end": 1060
+    },
+    {
+      "text": "25",
+      "label": "CARDINAL",
+      "start": 1145,
+      "end": 1147
+    },
+    {
+      "text": "12",
+      "label": "CARDINAL",
+      "start": 1166,
+      "end": 1168
+    },
+    {
+      "text": "Narendra Modi",
+      "label": "PERSON",
+      "start": 1218,
+      "end": 1231
+    },
+    {
+      "text": "second",
+      "label": "ORDINAL",
+      "start": 1249,
+      "end": 1255
+    },
+    {
+      "text": "third",
+      "label": "ORDINAL",
+      "start": 1272,
+      "end": 1277
+    },
+    {
+      "text": "Bharatiya Janata Party",
+      "label": "ORG",
+      "start": 1300,
+      "end": 1322
+    },
+    {
+      "text": "BJP",
+      "label": "ORG",
+      "start": 1324,
+      "end": 1327
+    },
+    {
+      "text": "272",
+      "label": "CARDINAL",
+      "start": 1375,
+      "end": 1378
+    },
+    {
+      "text": "2014",
+      "label": "DATE",
+      "start": 1392,
+      "end": 1396
+    },
+    {
+      "text": "2019",
+      "label": "DATE",
+      "start": 1401,
+      "end": 1405
+    },
+    {
+      "text": "the Indian National Developmental Inclusive Alliance",
+      "label": "ORG",
+      "start": 1444,
+      "end": 1496
+    },
+    {
+      "text": "2023",
+      "label": "DATE",
+      "start": 1528,
+      "end": 1532
+    },
+    {
+      "text": "the Indian National Congress (INC)",
+      "label": "ORG",
+      "start": 1536,
+      "end": 1570
+    },
+    {
+      "text": "Modi",
+      "label": "GPE",
+      "start": 1665,
+      "end": 1669
+    },
+    {
+      "text": "BJP",
+      "label": "ORG",
+      "start": 1672,
+      "end": 1675
+    },
+    {
+      "text": "BJP",
+      "label": "ORG",
+      "start": 1780,
+      "end": 1783
+    },
+    {
+      "text": "BJP",
+      "label": "ORG",
+      "start": 1866,
+      "end": 1869
+    },
+    {
+      "text": "the National Democratic Alliance",
+      "label": "ORG",
+      "start": 1889,
+      "end": 1921
+    },
+    {
+      "text": "NDA",
+      "label": "ORG",
+      "start": 1923,
+      "end": 1926
+    },
+    {
+      "text": "BJP",
+      "label": "ORG",
+      "start": 1942,
+      "end": 1945
+    },
+    {
+      "text": "240",
+      "label": "CARDINAL",
+      "start": 1950,
+      "end": 1953
+    },
+    {
+      "text": "303",
+      "label": "CARDINAL",
+      "start": 1975,
+      "end": 1978
+    },
+    {
+      "text": "2019",
+      "label": "DATE",
+      "start": 1997,
+      "end": 2001
+    },
+    {
+      "text": "the Lok Sabha",
+      "label": "FAC",
+      "start": 2037,
+      "end": 2050
+    },
+    {
+      "text": "NDA",
+      "label": "ORG",
+      "start": 2065,
+      "end": 2068
+    },
+    {
+      "text": "293",
+      "label": "CARDINAL",
+      "start": 2085,
+      "end": 2088
+    },
+    {
+      "text": "543",
+      "label": "CARDINAL",
+      "start": 2104,
+      "end": 2107
+    },
+    {
+      "text": "INDIA",
+      "label": "GPE",
+      "start": 2119,
+      "end": 2124
+    },
+    {
+      "text": "234",
+      "label": "CARDINAL",
+      "start": 2171,
+      "end": 2174
+    },
+    {
+      "text": "99",
+      "label": "CARDINAL",
+      "start": 2182,
+      "end": 2184
+    },
+    {
+      "text": "Congress",
+      "label": "ORG",
+      "start": 2210,
+      "end": 2218
+    },
+    {
+      "text": "first",
+      "label": "ORDINAL",
+      "start": 2279,
+      "end": 2284
+    },
+    {
+      "text": "10 years",
+      "label": "DATE",
+      "start": 2293,
+      "end": 2301
+    },
+    {
+      "text": "Seven",
+      "label": "CARDINAL",
+      "start": 2303,
+      "end": 2308
+    },
+    {
+      "text": "ten",
+      "label": "CARDINAL",
+      "start": 2326,
+      "end": 2329
+    },
+    {
+      "text": "the Lok Sabha",
+      "label": "FAC",
+      "start": 2384,
+      "end": 2397
+    }
+  ],
+  "3D optical data storage": [
+    {
+      "text": "three",
+      "label": "CARDINAL",
+      "start": 110,
+      "end": 115
+    },
+    {
+      "text": "two",
+      "label": "CARDINAL",
+      "start": 158,
+      "end": 161
+    }
+  ],
+  "A* search algorithm": [
+    {
+      "text": "One",
+      "label": "CARDINAL",
+      "start": 331,
+      "end": 334
+    },
+    {
+      "text": "Peter Hart",
+      "label": "PERSON",
+      "start": 917,
+      "end": 927
+    },
+    {
+      "text": "Nils Nilsson",
+      "label": "PERSON",
+      "start": 929,
+      "end": 941
+    },
+    {
+      "text": "Bertram Raphael",
+      "label": "PERSON",
+      "start": 946,
+      "end": 961
+    },
+    {
+      "text": "Stanford Research Institute",
+      "label": "ORG",
+      "start": 965,
+      "end": 992
+    },
+    {
+      "text": "SRI International",
+      "label": "ORG",
+      "start": 998,
+      "end": 1015
+    },
+    {
+      "text": "1968",
+      "label": "DATE",
+      "start": 1050,
+      "end": 1054
+    },
+    {
+      "text": "Dijkstra",
+      "label": "ORG",
+      "start": 1090,
+      "end": 1098
+    },
+    {
+      "text": "Dijkstra",
+      "label": "ORG",
+      "start": 1196,
+      "end": 1204
+    },
+    {
+      "text": "Dijkstra",
+      "label": "PERSON",
+      "start": 1467,
+      "end": 1475
+    }
+  ],
+  "A.I. Artificial Intelligence": [
+    {
+      "text": "A.I. Artificial Intelligence",
+      "label": "ORG",
+      "start": 0,
+      "end": 28
+    },
+    {
+      "text": "A.I.",
+      "label": "ORG",
+      "start": 40,
+      "end": 44
+    },
+    {
+      "text": "2001",
+      "label": "DATE",
+      "start": 51,
+      "end": 55
+    },
+    {
+      "text": "Steven Spielberg",
+      "label": "PERSON",
+      "start": 95,
+      "end": 111
+    },
+    {
+      "text": "Spielberg",
+      "label": "PERSON",
+      "start": 131,
+      "end": 140
+    },
+    {
+      "text": "Ian Watson",
+      "label": "PERSON",
+      "start": 161,
+      "end": 171
+    },
+    {
+      "text": "1969",
+      "label": "DATE",
+      "start": 197,
+      "end": 201
+    },
+    {
+      "text": "Supertoys Last All Summer Long",
+      "label": "WORK_OF_ART",
+      "start": 215,
+      "end": 245
+    },
+    {
+      "text": "Brian Aldiss",
+      "label": "PERSON",
+      "start": 250,
+      "end": 262
+    },
+    {
+      "text": "Haley Joel Osment",
+      "label": "ORG",
+      "start": 308,
+      "end": 325
+    },
+    {
+      "text": "David",
+      "label": "PERSON",
+      "start": 329,
+      "end": 334
+    },
+    {
+      "text": "Jude Law",
+      "label": "PERSON",
+      "start": 402,
+      "end": 410
+    },
+    {
+      "text": "Frances O'Connor",
+      "label": "PERSON",
+      "start": 412,
+      "end": 428
+    },
+    {
+      "text": "Brendan Gleeson",
+      "label": "PERSON",
+      "start": 430,
+      "end": 445
+    },
+    {
+      "text": "William Hurt",
+      "label": "PERSON",
+      "start": 450,
+      "end": 462
+    },
+    {
+      "text": "A.I.",
+      "label": "GPE",
+      "start": 504,
+      "end": 508
+    },
+    {
+      "text": "Stanley Kubrick",
+      "label": "PERSON",
+      "start": 554,
+      "end": 569
+    },
+    {
+      "text": "Aldiss",
+      "label": "ORG",
+      "start": 593,
+      "end": 599
+    },
+    {
+      "text": "the early 1970s",
+      "label": "DATE",
+      "start": 611,
+      "end": 626
+    },
+    {
+      "text": "Kubrick",
+      "label": "PERSON",
+      "start": 628,
+      "end": 635
+    },
+    {
+      "text": "Aldiss",
+      "label": "ORG",
+      "start": 673,
+      "end": 679
+    },
+    {
+      "text": "Bob Shaw",
+      "label": "PERSON",
+      "start": 681,
+      "end": 689
+    },
+    {
+      "text": "Ian Watson",
+      "label": "PERSON",
+      "start": 691,
+      "end": 701
+    },
+    {
+      "text": "Sara Maitland",
+      "label": "PERSON",
+      "start": 706,
+      "end": 719
+    },
+    {
+      "text": "the mid-1990s",
+      "label": "DATE",
+      "start": 727,
+      "end": 740
+    },
+    {
+      "text": "years",
+      "label": "DATE",
+      "start": 786,
+      "end": 791
+    },
+    {
+      "text": "Kubrick",
+      "label": "GPE",
+      "start": 808,
+      "end": 815
+    },
+    {
+      "text": "David",
+      "label": "PERSON",
+      "start": 891,
+      "end": 896
+    },
+    {
+      "text": "1995",
+      "label": "DATE",
+      "start": 972,
+      "end": 976
+    },
+    {
+      "text": "Kubrick",
+      "label": "GPE",
+      "start": 978,
+      "end": 985
+    },
+    {
+      "text": "A.I.",
+      "label": "GPE",
+      "start": 993,
+      "end": 997
+    },
+    {
+      "text": "Spielberg",
+      "label": "PERSON",
+      "start": 1001,
+      "end": 1010
+    },
+    {
+      "text": "Kubrick",
+      "label": "GPE",
+      "start": 1053,
+      "end": 1060
+    },
+    {
+      "text": "1999",
+      "label": "DATE",
+      "start": 1069,
+      "end": 1073
+    },
+    {
+      "text": "Spielberg",
+      "label": "PERSON",
+      "start": 1075,
+      "end": 1084
+    },
+    {
+      "text": "Watson",
+      "label": "PERSON",
+      "start": 1103,
+      "end": 1109
+    },
+    {
+      "text": "Kubrick",
+      "label": "GPE",
+      "start": 1167,
+      "end": 1174
+    },
+    {
+      "text": "A.I. Artificial Intelligence",
+      "label": "ORG",
+      "start": 1176,
+      "end": 1204
+    },
+    {
+      "text": "June 29, 2001",
+      "label": "DATE",
+      "start": 1221,
+      "end": 1234
+    },
+    {
+      "text": "Warner Bros. Pictures",
+      "label": "ORG",
+      "start": 1239,
+      "end": 1260
+    },
+    {
+      "text": "North America",
+      "label": "LOC",
+      "start": 1264,
+      "end": 1277
+    },
+    {
+      "text": "DreamWorks Pictures",
+      "label": "ORG",
+      "start": 1282,
+      "end": 1301
+    },
+    {
+      "text": "$235.9 million",
+      "label": "MONEY",
+      "start": 1388,
+      "end": 1402
+    },
+    {
+      "text": "$90–100 million",
+      "label": "MONEY",
+      "start": 1423,
+      "end": 1438
+    },
+    {
+      "text": "Best Visual Effects and Best Original Score",
+      "label": "ORG",
+      "start": 1466,
+      "end": 1509
+    },
+    {
+      "text": "John Williams",
+      "label": "PERSON",
+      "start": 1515,
+      "end": 1528
+    },
+    {
+      "text": "the 74th Academy Awards",
+      "label": "ORG",
+      "start": 1533,
+      "end": 1556
+    },
+    {
+      "text": "2016",
+      "label": "DATE",
+      "start": 1563,
+      "end": 1567
+    },
+    {
+      "text": "BBC",
+      "label": "ORG",
+      "start": 1568,
+      "end": 1571
+    },
+    {
+      "text": "177",
+      "label": "CARDINAL",
+      "start": 1580,
+      "end": 1583
+    },
+    {
+      "text": "A.I. Artificial Intelligence",
+      "label": "ORG",
+      "start": 1610,
+      "end": 1638
+    },
+    {
+      "text": "eighty-third",
+      "label": "DATE",
+      "start": 1653,
+      "end": 1665
+    },
+    {
+      "text": "2000",
+      "label": "DATE",
+      "start": 1686,
+      "end": 1690
+    },
+    {
+      "text": "one",
+      "label": "CARDINAL",
+      "start": 1717,
+      "end": 1720
+    },
+    {
+      "text": "Spielberg",
+      "label": "PERSON",
+      "start": 1724,
+      "end": 1733
+    },
+    {
+      "text": "the 21st century",
+      "label": "DATE",
+      "start": 1780,
+      "end": 1796
+    }
+  ],
+  "AAAI": [
+    {
+      "text": "The Association for the Advancement of Artificial Intelligence",
+      "label": "ORG",
+      "start": 0,
+      "end": 62
+    },
+    {
+      "text": "AAAI",
+      "label": "ORG",
+      "start": 195,
+      "end": 199
+    },
+    {
+      "text": "AI",
+      "label": "GPE",
+      "start": 246,
+      "end": 248
+    },
+    {
+      "text": "AI",
+      "label": "GPE",
+      "start": 287,
+      "end": 289
+    },
+    {
+      "text": "AI",
+      "label": "GPE",
+      "start": 411,
+      "end": 413
+    }
+  ],
+  "ABB": [
+    {
+      "text": "ABB Group",
+      "label": "ORG",
+      "start": 0,
+      "end": 9
+    },
+    {
+      "text": "Swedish",
+      "label": "NORP",
+      "start": 15,
+      "end": 22
+    },
+    {
+      "text": "Switzerland",
+      "label": "GPE",
+      "start": 95,
+      "end": 106
+    },
+    {
+      "text": "ABB Ltd",
+      "label": "ORG",
+      "start": 110,
+      "end": 117
+    },
+    {
+      "text": "Zurich",
+      "label": "GPE",
+      "start": 140,
+      "end": 146
+    },
+    {
+      "text": "the Nasdaq Nordic exchange",
+      "label": "ORG",
+      "start": 169,
+      "end": 195
+    },
+    {
+      "text": "Stockholm",
+      "label": "GPE",
+      "start": 199,
+      "end": 208
+    },
+    {
+      "text": "Sweden",
+      "label": "GPE",
+      "start": 210,
+      "end": 216
+    },
+    {
+      "text": "the SIX Swiss Exchange",
+      "label": "ORG",
+      "start": 222,
+      "end": 244
+    },
+    {
+      "text": "Zurich",
+      "label": "GPE",
+      "start": 248,
+      "end": 254
+    },
+    {
+      "text": "ABB",
+      "label": "ORG",
+      "start": 256,
+      "end": 259
+    },
+    {
+      "text": "340th",
+      "label": "ORDINAL",
+      "start": 271,
+      "end": 276
+    },
+    {
+      "text": "Fortune Global 500",
+      "label": "PRODUCT",
+      "start": 284,
+      "end": 302
+    },
+    {
+      "text": "2020",
+      "label": "DATE",
+      "start": 311,
+      "end": 315
+    },
+    {
+      "text": "Fortune 500",
+      "label": "PRODUCT",
+      "start": 338,
+      "end": 349
+    },
+    {
+      "text": "24 years",
+      "label": "DATE",
+      "start": 362,
+      "end": 370
+    },
+    {
+      "text": "ABB",
+      "label": "ORG",
+      "start": 372,
+      "end": 375
+    },
+    {
+      "text": "1988",
+      "label": "DATE",
+      "start": 390,
+      "end": 394
+    },
+    {
+      "text": "Sweden",
+      "label": "GPE",
+      "start": 401,
+      "end": 407
+    },
+    {
+      "text": "Allmänna Svenska Elektriska Aktiebolaget",
+      "label": "ORG",
+      "start": 410,
+      "end": 450
+    },
+    {
+      "text": "Switzerland",
+      "label": "GPE",
+      "start": 462,
+      "end": 473
+    },
+    {
+      "text": "Brown, Boveri & Cie",
+      "label": "ORG",
+      "start": 476,
+      "end": 495
+    },
+    {
+      "text": "Asea Brown Boveri",
+      "label": "ORG",
+      "start": 513,
+      "end": 530
+    },
+    {
+      "text": "ABB",
+      "label": "ORG",
+      "start": 565,
+      "end": 568
+    },
+    {
+      "text": "the late 1800s",
+      "label": "DATE",
+      "start": 605,
+      "end": 619
+    },
+    {
+      "text": "ABB",
+      "label": "ORG",
+      "start": 696,
+      "end": 699
+    },
+    {
+      "text": "Between 1989 and 1999",
+      "label": "DATE",
+      "start": 842,
+      "end": 863
+    },
+    {
+      "text": "the 1990s and",
+      "label": "DATE",
+      "start": 947,
+      "end": 960
+    },
+    {
+      "text": "2000s",
+      "label": "DATE",
+      "start": 961,
+      "end": 966
+    },
+    {
+      "text": "ABB",
+      "label": "ORG",
+      "start": 968,
+      "end": 971
+    },
+    {
+      "text": "hundreds",
+      "label": "CARDINAL",
+      "start": 981,
+      "end": 989
+    },
+    {
+      "text": "Europe",
+      "label": "LOC",
+      "start": 1039,
+      "end": 1045
+    },
+    {
+      "text": "Asia",
+      "label": "LOC",
+      "start": 1061,
+      "end": 1065
+    },
+    {
+      "text": "North America",
+      "label": "LOC",
+      "start": 1070,
+      "end": 1083
+    },
+    {
+      "text": "2001",
+      "label": "DATE",
+      "start": 1160,
+      "end": 1164
+    },
+    {
+      "text": "ABB",
+      "label": "ORG",
+      "start": 1169,
+      "end": 1172
+    },
+    {
+      "text": "three",
+      "label": "CARDINAL",
+      "start": 1234,
+      "end": 1239
+    },
+    {
+      "text": "2004",
+      "label": "DATE",
+      "start": 1308,
+      "end": 1312
+    },
+    {
+      "text": "2010",
+      "label": "DATE",
+      "start": 1314,
+      "end": 1318
+    },
+    {
+      "text": "2022",
+      "label": "DATE",
+      "start": 1324,
+      "end": 1328
+    },
+    {
+      "text": "early 2002",
+      "label": "DATE",
+      "start": 1333,
+      "end": 1343
+    },
+    {
+      "text": "ABB",
+      "label": "ORG",
+      "start": 1345,
+      "end": 1348
+    },
+    {
+      "text": "first",
+      "label": "ORDINAL",
+      "start": 1363,
+      "end": 1368
+    },
+    {
+      "text": "annual",
+      "label": "DATE",
+      "start": 1374,
+      "end": 1380
+    },
+    {
+      "text": "three years",
+      "label": "DATE",
+      "start": 1447,
+      "end": 1458
+    },
+    {
+      "text": "the 2010s",
+      "label": "DATE",
+      "start": 1525,
+      "end": 1534
+    },
+    {
+      "text": "ABB",
+      "label": "ORG",
+      "start": 1536,
+      "end": 1539
+    },
+    {
+      "text": "Power Grids",
+      "label": "ORG",
+      "start": 1650,
+      "end": 1661
+    },
+    {
+      "text": "Hitachi",
+      "label": "ORG",
+      "start": 1674,
+      "end": 1681
+    },
+    {
+      "text": "2020",
+      "label": "DATE",
+      "start": 1685,
+      "end": 1689
+    },
+    {
+      "text": "ABB",
+      "label": "ORG",
+      "start": 1691,
+      "end": 1694
+    },
+    {
+      "text": "Switzerland",
+      "label": "GPE",
+      "start": 1699,
+      "end": 1710
+    }
+  ],
+  "ACM Computing Classification System": [
+    {
+      "text": "The ACM Computing Classification System",
+      "label": "ORG",
+      "start": 0,
+      "end": 39
+    },
+    {
+      "text": "CCS",
+      "label": "ORG",
+      "start": 41,
+      "end": 44
+    },
+    {
+      "text": "the Association for Computing Machinery",
+      "label": "ORG",
+      "start": 106,
+      "end": 145
+    },
+    {
+      "text": "the Mathematics Subject Classification",
+      "label": "ORG",
+      "start": 181,
+      "end": 219
+    },
+    {
+      "text": "MSC",
+      "label": "ORG",
+      "start": 221,
+      "end": 224
+    },
+    {
+      "text": "ACM",
+      "label": "ORG",
+      "start": 283,
+      "end": 286
+    }
+  ],
+  "2008 financial crisis": [
+    {
+      "text": "2008",
+      "label": "DATE",
+      "start": 4,
+      "end": 8
+    },
+    {
+      "text": "GFC",
+      "label": "ORG",
+      "start": 70,
+      "end": 73
+    },
+    {
+      "text": "the Panic of 2008",
+      "label": "ORG",
+      "start": 78,
+      "end": 95
+    },
+    {
+      "text": "the United States",
+      "label": "GPE",
+      "start": 148,
+      "end": 165
+    },
+    {
+      "text": "2000s",
+      "label": "DATE",
+      "start": 290,
+      "end": 295
+    },
+    {
+      "text": "United States",
+      "label": "GPE",
+      "start": 296,
+      "end": 309
+    },
+    {
+      "text": "first",
+      "label": "ORDINAL",
+      "start": 551,
+      "end": 556
+    },
+    {
+      "text": "early 2007",
+      "label": "DATE",
+      "start": 626,
+      "end": 636
+    },
+    {
+      "text": "MBS",
+      "label": "PERSON",
+      "start": 669,
+      "end": 672
+    },
+    {
+      "text": "U.S.",
+      "label": "GPE",
+      "start": 682,
+      "end": 686
+    },
+    {
+      "text": "MBS",
+      "label": "ORG",
+      "start": 746,
+      "end": 749
+    },
+    {
+      "text": "mid-2007",
+      "label": "DATE",
+      "start": 823,
+      "end": 831
+    },
+    {
+      "text": "Lehman Brothers",
+      "label": "ORG",
+      "start": 868,
+      "end": 883
+    },
+    {
+      "text": "September 2008",
+      "label": "DATE",
+      "start": 887,
+      "end": 901
+    },
+    {
+      "text": "the Great Recession",
+      "label": "FAC",
+      "start": 999,
+      "end": 1018
+    },
+    {
+      "text": "mid-2007",
+      "label": "DATE",
+      "start": 1053,
+      "end": 1061
+    },
+    {
+      "text": "the United States",
+      "label": "GPE",
+      "start": 1074,
+      "end": 1091
+    },
+    {
+      "text": "2007–2009",
+      "label": "CARDINAL",
+      "start": 1107,
+      "end": 1116
+    },
+    {
+      "text": "2008–2011",
+      "label": "CARDINAL",
+      "start": 1151,
+      "end": 1160
+    },
+    {
+      "text": "Icelandic",
+      "label": "NORP",
+      "start": 1161,
+      "end": 1170
+    },
+    {
+      "text": "the 1990s",
+      "label": "DATE",
+      "start": 1221,
+      "end": 1230
+    },
+    {
+      "text": "the U.S. Congress",
+      "label": "ORG",
+      "start": 1232,
+      "end": 1249
+    },
+    {
+      "text": "1999",
+      "label": "DATE",
+      "start": 1355,
+      "end": 1359
+    },
+    {
+      "text": "1933",
+      "label": "DATE",
+      "start": 1374,
+      "end": 1378
+    },
+    {
+      "text": "Glass",
+      "label": "PERSON",
+      "start": 1392,
+      "end": 1397
+    },
+    {
+      "text": "the Federal Reserve",
+      "label": "ORG",
+      "start": 1602,
+      "end": 1621
+    },
+    {
+      "text": "Fed",
+      "label": "ORG",
+      "start": 1624,
+      "end": 1627
+    },
+    {
+      "text": "2000",
+      "label": "DATE",
+      "start": 1666,
+      "end": 1670
+    },
+    {
+      "text": "2003",
+      "label": "DATE",
+      "start": 1674,
+      "end": 1678
+    },
+    {
+      "text": "2004 to 2006",
+      "label": "DATE",
+      "start": 1876,
+      "end": 1888
+    },
+    {
+      "text": "early 2007",
+      "label": "DATE",
+      "start": 1953,
+      "end": 1963
+    },
+    {
+      "text": "U.S.",
+      "label": "GPE",
+      "start": 1973,
+      "end": 1977
+    },
+    {
+      "text": "New Century Financial",
+      "label": "ORG",
+      "start": 2098,
+      "end": 2119
+    },
+    {
+      "text": "April",
+      "label": "DATE",
+      "start": 2123,
+      "end": 2128
+    },
+    {
+      "text": "August 2007",
+      "label": "DATE",
+      "start": 2229,
+      "end": 2240
+    },
+    {
+      "text": "March 2008",
+      "label": "DATE",
+      "start": 2290,
+      "end": 2300
+    },
+    {
+      "text": "Bear Stearns",
+      "label": "ORG",
+      "start": 2302,
+      "end": 2314
+    },
+    {
+      "text": "fifth",
+      "label": "ORDINAL",
+      "start": 2320,
+      "end": 2325
+    },
+    {
+      "text": "U.S.",
+      "label": "GPE",
+      "start": 2334,
+      "end": 2338
+    },
+    {
+      "text": "JPMorgan Chase",
+      "label": "ORG",
+      "start": 2368,
+      "end": 2382
+    },
+    {
+      "text": "Fed",
+      "label": "ORG",
+      "start": 2410,
+      "end": 2413
+    },
+    {
+      "text": "July 2008",
+      "label": "DATE",
+      "start": 2653,
+      "end": 2662
+    },
+    {
+      "text": "Fannie Mae",
+      "label": "ORG",
+      "start": 2664,
+      "end": 2674
+    },
+    {
+      "text": "Freddie Mac",
+      "label": "ORG",
+      "start": 2679,
+      "end": 2690
+    },
+    {
+      "text": "half",
+      "label": "CARDINAL",
+      "start": 2737,
+      "end": 2741
+    },
+    {
+      "text": "U.S.",
+      "label": "GPE",
+      "start": 2749,
+      "end": 2753
+    },
+    {
+      "text": "the Housing and Economic Recovery Act",
+      "label": "ORG",
+      "start": 2790,
+      "end": 2827
+    },
+    {
+      "text": "2008",
+      "label": "DATE",
+      "start": 2831,
+      "end": 2835
+    },
+    {
+      "text": "September 7",
+      "label": "DATE",
+      "start": 2884,
+      "end": 2895
+    },
+    {
+      "text": "Lehman Brothers",
+      "label": "ORG",
+      "start": 2897,
+      "end": 2912
+    },
+    {
+      "text": "fourth",
+      "label": "ORDINAL",
+      "start": 2918,
+      "end": 2924
+    },
+    {
+      "text": "U.S.",
+      "label": "GPE",
+      "start": 2933,
+      "end": 2937
+    },
+    {
+      "text": "U.S.",
+      "label": "GPE",
+      "start": 2991,
+      "end": 2995
+    },
+    {
+      "text": "September 15",
+      "label": "DATE",
+      "start": 3007,
+      "end": 3019
+    },
+    {
+      "text": "Fed",
+      "label": "ORG",
+      "start": 3045,
+      "end": 3048
+    },
+    {
+      "text": "American International Group",
+      "label": "ORG",
+      "start": 3061,
+      "end": 3089
+    },
+    {
+      "text": "the next day",
+      "label": "DATE",
+      "start": 3122,
+      "end": 3134
+    },
+    {
+      "text": "Washington",
+      "label": "GPE",
+      "start": 3155,
+      "end": 3165
+    },
+    {
+      "text": "U.S.",
+      "label": "GPE",
+      "start": 3204,
+      "end": 3208
+    },
+    {
+      "text": "September 25",
+      "label": "DATE",
+      "start": 3220,
+      "end": 3232
+    },
+    {
+      "text": "October 3",
+      "label": "DATE",
+      "start": 3237,
+      "end": 3246
+    },
+    {
+      "text": "Congress",
+      "label": "ORG",
+      "start": 3248,
+      "end": 3256
+    },
+    {
+      "text": "the Emergency Economic Stabilization Act",
+      "label": "ORG",
+      "start": 3264,
+      "end": 3304
+    },
+    {
+      "text": "the Treasury Department",
+      "label": "ORG",
+      "start": 3318,
+      "end": 3341
+    },
+    {
+      "text": "$700 billion",
+      "label": "MONEY",
+      "start": 3395,
+      "end": 3407
+    },
+    {
+      "text": "Fed",
+      "label": "ORG",
+      "start": 3450,
+      "end": 3453
+    },
+    {
+      "text": "MBS",
+      "label": "ORG",
+      "start": 3544,
+      "end": 3547
+    },
+    {
+      "text": "the American Recovery and Reinvestment Act",
+      "label": "ORG",
+      "start": 3553,
+      "end": 3595
+    },
+    {
+      "text": "February 2009",
+      "label": "DATE",
+      "start": 3607,
+      "end": 3620
+    },
+    {
+      "text": "Barack Obama",
+      "label": "PERSON",
+      "start": 3648,
+      "end": 3660
+    },
+    {
+      "text": "the Great Recession",
+      "label": "FAC",
+      "start": 3841,
+      "end": 3860
+    },
+    {
+      "text": "mid-2009",
+      "label": "DATE",
+      "start": 3864,
+      "end": 3872
+    },
+    {
+      "text": "U.S.",
+      "label": "GPE",
+      "start": 3916,
+      "end": 3920
+    },
+    {
+      "text": "some 8.7 million",
+      "label": "CARDINAL",
+      "start": 3944,
+      "end": 3960
+    },
+    {
+      "text": "5%",
+      "label": "PERCENT",
+      "start": 4011,
+      "end": 4013
+    },
+    {
+      "text": "2007",
+      "label": "DATE",
+      "start": 4017,
+      "end": 4021
+    },
+    {
+      "text": "10%",
+      "label": "PERCENT",
+      "start": 4035,
+      "end": 4038
+    },
+    {
+      "text": "October 2009",
+      "label": "DATE",
+      "start": 4042,
+      "end": 4054
+    },
+    {
+      "text": "12.5%",
+      "label": "PERCENT",
+      "start": 4111,
+      "end": 4116
+    },
+    {
+      "text": "2007",
+      "label": "DATE",
+      "start": 4120,
+      "end": 4124
+    },
+    {
+      "text": "15.1%",
+      "label": "PERCENT",
+      "start": 4128,
+      "end": 4133
+    },
+    {
+      "text": "2010",
+      "label": "DATE",
+      "start": 4137,
+      "end": 4141
+    },
+    {
+      "text": "53%",
+      "label": "PERCENT",
+      "start": 4184,
+      "end": 4187
+    },
+    {
+      "text": "between October 2007 and March 2009",
+      "label": "DATE",
+      "start": 4188,
+      "end": 4223
+    },
+    {
+      "text": "one",
+      "label": "CARDINAL",
+      "start": 4257,
+      "end": 4260
+    },
+    {
+      "text": "four",
+      "label": "CARDINAL",
+      "start": 4264,
+      "end": 4268
+    },
+    {
+      "text": "75%",
+      "label": "PERCENT",
+      "start": 4285,
+      "end": 4288
+    },
+    {
+      "text": "2010",
+      "label": "DATE",
+      "start": 4320,
+      "end": 4324
+    },
+    {
+      "text": "Dodd",
+      "label": "PERSON",
+      "start": 4330,
+      "end": 4334
+    },
+    {
+      "text": "Republicans",
+      "label": "NORP",
+      "start": 4458,
+      "end": 4469
+    },
+    {
+      "text": "2018",
+      "label": "DATE",
+      "start": 4565,
+      "end": 4569
+    }
+  ],
+  "AAAI Conference on Artificial Intelligence": [
+    {
+      "text": "The AAAI Conference on Artificial Intelligence",
+      "label": "ORG",
+      "start": 0,
+      "end": 46
+    },
+    {
+      "text": "annually",
+      "label": "DATE",
+      "start": 133,
+      "end": 141
+    },
+    {
+      "text": "4th",
+      "label": "ORDINAL",
+      "start": 152,
+      "end": 155
+    },
+    {
+      "text": "Google Scholar's",
+      "label": "ORG",
+      "start": 180,
+      "end": 196
+    },
+    {
+      "text": "AI",
+      "label": "GPE",
+      "start": 209,
+      "end": 211
+    },
+    {
+      "text": "ICLR",
+      "label": "ORG",
+      "start": 232,
+      "end": 236
+    },
+    {
+      "text": "the Association for the Advancement of Artificial Intelligence",
+      "label": "ORG",
+      "start": 276,
+      "end": 338
+    },
+    {
+      "text": "year",
+      "label": "DATE",
+      "start": 364,
+      "end": 368
+    },
+    {
+      "text": "the end of August",
+      "label": "DATE",
+      "start": 421,
+      "end": 438
+    },
+    {
+      "text": "September",
+      "label": "DATE",
+      "start": 455,
+      "end": 464
+    },
+    {
+      "text": "February",
+      "label": "DATE",
+      "start": 524,
+      "end": 532
+    },
+    {
+      "text": "first",
+      "label": "ORDINAL",
+      "start": 538,
+      "end": 543
+    },
+    {
+      "text": "AAAI",
+      "label": "ORG",
+      "start": 544,
+      "end": 548
+    },
+    {
+      "text": "1980",
+      "label": "DATE",
+      "start": 561,
+      "end": 565
+    },
+    {
+      "text": "Stanford University",
+      "label": "ORG",
+      "start": 569,
+      "end": 588
+    },
+    {
+      "text": "Stanford California",
+      "label": "ORG",
+      "start": 590,
+      "end": 609
+    },
+    {
+      "text": "AI",
+      "label": "GPE",
+      "start": 638,
+      "end": 640
+    },
+    {
+      "text": "2018",
+      "label": "DATE",
+      "start": 654,
+      "end": 658
+    },
+    {
+      "text": "the Nobel Prize of Computing",
+      "label": "WORK_OF_ART",
+      "start": 702,
+      "end": 730
+    },
+    {
+      "text": "Yann LeCun",
+      "label": "PERSON",
+      "start": 732,
+      "end": 742
+    },
+    {
+      "text": "Yoshua Bengio",
+      "label": "PERSON",
+      "start": 747,
+      "end": 760
+    },
+    {
+      "text": "eight",
+      "label": "CARDINAL",
+      "start": 768,
+      "end": 773
+    },
+    {
+      "text": "2020",
+      "label": "DATE",
+      "start": 818,
+      "end": 822
+    },
+    {
+      "text": "ICML",
+      "label": "ORG",
+      "start": 881,
+      "end": 885
+    },
+    {
+      "text": "AAAI",
+      "label": "ORG",
+      "start": 887,
+      "end": 891
+    }
+  ],
+  "ACM Computing Surveys": [
+    {
+      "text": "Computing Surveys",
+      "label": "PERSON",
+      "start": 4,
+      "end": 21
+    },
+    {
+      "text": "quarterly",
+      "label": "DATE",
+      "start": 39,
+      "end": 48
+    },
+    {
+      "text": "the Association for Computing Machinery",
+      "label": "ORG",
+      "start": 88,
+      "end": 127
+    },
+    {
+      "text": "1969",
+      "label": "DATE",
+      "start": 246,
+      "end": 250
+    },
+    {
+      "text": "William S. Dorn",
+      "label": "PERSON",
+      "start": 256,
+      "end": 271
+    },
+    {
+      "text": "the Journal Citation Reports",
+      "label": "ORG",
+      "start": 314,
+      "end": 342
+    },
+    {
+      "text": "2023",
+      "label": "CARDINAL",
+      "start": 362,
+      "end": 366
+    },
+    {
+      "text": "23.8",
+      "label": "CARDINAL",
+      "start": 384,
+      "end": 388
+    },
+    {
+      "text": "2008",
+      "label": "DATE",
+      "start": 395,
+      "end": 399
+    },
+    {
+      "text": "Computing Surveys",
+      "label": "PERSON",
+      "start": 442,
+      "end": 459
+    }
+  ],
+  "ADALINE": [
+    {
+      "text": "ADALINE",
+      "label": "ORG",
+      "start": 0,
+      "end": 7
+    },
+    {
+      "text": "Adaptive Linear Neuron",
+      "label": "ORG",
+      "start": 9,
+      "end": 31
+    },
+    {
+      "text": "later Adaptive Linear Element",
+      "label": "ORG",
+      "start": 35,
+      "end": 64
+    },
+    {
+      "text": "Bernard Widrow",
+      "label": "PERSON",
+      "start": 204,
+      "end": 218
+    },
+    {
+      "text": "Marcian Hoff",
+      "label": "PERSON",
+      "start": 244,
+      "end": 256
+    },
+    {
+      "text": "Stanford University",
+      "label": "ORG",
+      "start": 260,
+      "end": 279
+    },
+    {
+      "text": "1960",
+      "label": "DATE",
+      "start": 283,
+      "end": 287
+    },
+    {
+      "text": "Adaline",
+      "label": "ORG",
+      "start": 605,
+      "end": 612
+    },
+    {
+      "text": "Rosenblatt",
+      "label": "PERSON",
+      "start": 631,
+      "end": 641
+    },
+    {
+      "text": "Adaline",
+      "label": "ORG",
+      "start": 676,
+      "end": 683
+    },
+    {
+      "text": "ADALINE",
+      "label": "ORG",
+      "start": 936,
+      "end": 943
+    }
+  ],
+  "AI-assisted software development": [
+    {
+      "text": "AI",
+      "label": "GPE",
+      "start": 203,
+      "end": 205
+    }
+  ],
+  "AIXI": [
+    {
+      "text": "Solomonoff",
+      "label": "PERSON",
+      "start": 94,
+      "end": 104
+    },
+    {
+      "text": "first",
+      "label": "ORDINAL",
+      "start": 157,
+      "end": 162
+    },
+    {
+      "text": "Marcus Hutter",
+      "label": "ORG",
+      "start": 175,
+      "end": 188
+    },
+    {
+      "text": "2000",
+      "label": "DATE",
+      "start": 192,
+      "end": 196
+    },
+    {
+      "text": "Hutter",
+      "label": "GPE",
+      "start": 246,
+      "end": 252
+    },
+    {
+      "text": "2005",
+      "label": "DATE",
+      "start": 255,
+      "end": 259
+    },
+    {
+      "text": "Universal Artificial Intelligence",
+      "label": "ORG",
+      "start": 265,
+      "end": 298
+    },
+    {
+      "text": "RL",
+      "label": "ORG",
+      "start": 334,
+      "end": 336
+    },
+    {
+      "text": "Occam",
+      "label": "PERSON",
+      "start": 876,
+      "end": 881
+    }
+  ],
+  "AI alignment": [
+    {
+      "text": "AI",
+      "label": "ORG",
+      "start": 70,
+      "end": 72
+    },
+    {
+      "text": "AI",
+      "label": "GPE",
+      "start": 165,
+      "end": 167
+    },
+    {
+      "text": "AI",
+      "label": "GPE",
+      "start": 250,
+      "end": 252
+    },
+    {
+      "text": "AI",
+      "label": "ORG",
+      "start": 319,
+      "end": 321
+    },
+    {
+      "text": "AI",
+      "label": "GPE",
+      "start": 344,
+      "end": 346
+    },
+    {
+      "text": "AI",
+      "label": "GPE",
+      "start": 601,
+      "end": 603
+    },
+    {
+      "text": "AI",
+      "label": "ORG",
+      "start": 806,
+      "end": 808
+    },
+    {
+      "text": "2024",
+      "label": "DATE",
+      "start": 1168,
+      "end": 1172
+    },
+    {
+      "text": "OpenAI",
+      "label": "ORG",
+      "start": 1224,
+      "end": 1230
+    },
+    {
+      "text": "Claude 3",
+      "label": "LAW",
+      "start": 1237,
+      "end": 1245
+    },
+    {
+      "text": "Today",
+      "label": "DATE",
+      "start": 1345,
+      "end": 1350
+    },
+    {
+      "text": "AI",
+      "label": "ORG",
+      "start": 1497,
+      "end": 1499
+    },
+    {
+      "text": "AI",
+      "label": "GPE",
+      "start": 1704,
+      "end": 1706
+    },
+    {
+      "text": "AI",
+      "label": "GPE",
+      "start": 1746,
+      "end": 1748
+    },
+    {
+      "text": "ASI",
+      "label": "ORG",
+      "start": 1820,
+      "end": 1823
+    },
+    {
+      "text": "Geoffrey Hinton",
+      "label": "PERSON",
+      "start": 1909,
+      "end": 1924
+    },
+    {
+      "text": "Yoshua Bengio",
+      "label": "PERSON",
+      "start": 1929,
+      "end": 1942
+    },
+    {
+      "text": "OpenAI",
+      "label": "GPE",
+      "start": 1959,
+      "end": 1965
+    },
+    {
+      "text": "Google DeepMind",
+      "label": "PRODUCT",
+      "start": 1982,
+      "end": 1997
+    },
+    {
+      "text": "AI",
+      "label": "GPE",
+      "start": 2057,
+      "end": 2059
+    },
+    {
+      "text": "AI",
+      "label": "ORG",
+      "start": 2099,
+      "end": 2101
+    },
+    {
+      "text": "AI",
+      "label": "GPE",
+      "start": 2130,
+      "end": 2132
+    },
+    {
+      "text": "AI",
+      "label": "GPE",
+      "start": 2266,
+      "end": 2268
+    },
+    {
+      "text": "AI",
+      "label": "GPE",
+      "start": 2288,
+      "end": 2290
+    },
+    {
+      "text": "AI",
+      "label": "ORG",
+      "start": 2338,
+      "end": 2340
+    },
+    {
+      "text": "AI",
+      "label": "ORG",
+      "start": 2373,
+      "end": 2375
+    }
+  ],
+  "AI boom": [
+    {
+      "text": "AI",
+      "label": "GPE",
+      "start": 3,
+      "end": 5
+    },
+    {
+      "text": "the 2010s",
+      "label": "DATE",
+      "start": 134,
+      "end": 143
+    },
+    {
+      "text": "the Deep Learning Phase",
+      "label": "ORG",
+      "start": 149,
+      "end": 172
+    },
+    {
+      "text": "the 2020s",
+      "label": "DATE",
+      "start": 208,
+      "end": 217
+    },
+    {
+      "text": "AI",
+      "label": "GPE",
+      "start": 306,
+      "end": 308
+    },
+    {
+      "text": "OpenAI",
+      "label": "GPE",
+      "start": 354,
+      "end": 360
+    },
+    {
+      "text": "Google DeepMind",
+      "label": "PRODUCT",
+      "start": 436,
+      "end": 451
+    },
+    {
+      "text": "AI",
+      "label": "GPE",
+      "start": 496,
+      "end": 498
+    },
+    {
+      "text": "AI",
+      "label": "GPE",
+      "start": 553,
+      "end": 555
+    },
+    {
+      "text": "winters",
+      "label": "DATE",
+      "start": 556,
+      "end": 563
+    },
+    {
+      "text": "2025",
+      "label": "DATE",
+      "start": 571,
+      "end": 575
+    },
+    {
+      "text": "4th",
+      "label": "ORDINAL",
+      "start": 604,
+      "end": 607
+    },
+    {
+      "text": "Google",
+      "label": "ORG",
+      "start": 657,
+      "end": 663
+    },
+    {
+      "text": "YouTube",
+      "label": "ORG",
+      "start": 665,
+      "end": 672
+    }
+  ],
+  "1 the Road": [
+    {
+      "text": "1",
+      "label": "CARDINAL",
+      "start": 0,
+      "end": 1
+    },
+    {
+      "text": "Jack Kerouac's",
+      "label": "PERSON",
+      "start": 88,
+      "end": 102
+    },
+    {
+      "text": "Ross Goodwin",
+      "label": "PERSON",
+      "start": 116,
+      "end": 128
+    },
+    {
+      "text": "New York",
+      "label": "GPE",
+      "start": 140,
+      "end": 148
+    },
+    {
+      "text": "New Orleans",
+      "label": "GPE",
+      "start": 152,
+      "end": 163
+    },
+    {
+      "text": "March 2017",
+      "label": "DATE",
+      "start": 167,
+      "end": 177
+    },
+    {
+      "text": "AI",
+      "label": "GPE",
+      "start": 186,
+      "end": 188
+    },
+    {
+      "text": "AI",
+      "label": "ORG",
+      "start": 248,
+      "end": 250
+    },
+    {
+      "text": "2018",
+      "label": "DATE",
+      "start": 341,
+      "end": 345
+    },
+    {
+      "text": "Jean Boîte Éditions",
+      "label": "PERSON",
+      "start": 349,
+      "end": 368
+    },
+    {
+      "text": "Goodwin",
+      "label": "PERSON",
+      "start": 370,
+      "end": 377
+    },
+    {
+      "text": "nine seventeen",
+      "label": "DATE",
+      "start": 581,
+      "end": 595
+    }
+  ],
+  "3D model": [
+    {
+      "text": "3D",
+      "label": "ORG",
+      "start": 3,
+      "end": 5
+    },
+    {
+      "text": "3D",
+      "label": "ORG",
+      "start": 25,
+      "end": 27
+    },
+    {
+      "text": "three",
+      "label": "CARDINAL",
+      "start": 164,
+      "end": 169
+    },
+    {
+      "text": "Three",
+      "label": "CARDINAL",
+      "start": 277,
+      "end": 282
+    },
+    {
+      "text": "3D",
+      "label": "ORG",
+      "start": 522,
+      "end": 524
+    }
+  ],
+  "ACT-R": [
+    {
+      "text": "Adaptive Control of Thought",
+      "label": "WORK_OF_ART",
+      "start": 41,
+      "end": 68
+    },
+    {
+      "text": "John Robert Anderson",
+      "label": "PERSON",
+      "start": 128,
+      "end": 148
+    },
+    {
+      "text": "Christian Lebiere",
+      "label": "PERSON",
+      "start": 153,
+      "end": 170
+    },
+    {
+      "text": "Carnegie Mellon University",
+      "label": "ORG",
+      "start": 174,
+      "end": 200
+    }
+  ],
+  "AI-complete": [
+    {
+      "text": "AI",
+      "label": "GPE",
+      "start": 150,
+      "end": 152
+    },
+    {
+      "text": "AI",
+      "label": "GPE",
+      "start": 165,
+      "end": 167
+    },
+    {
+      "text": "2013",
+      "label": "DATE",
+      "start": 290,
+      "end": 294
+    }
+  ],
+  "AI winter": [
+    {
+      "text": "AI",
+      "label": "GPE",
+      "start": 51,
+      "end": 53
+    },
+    {
+      "text": "AI",
+      "label": "GPE",
+      "start": 108,
+      "end": 110
+    },
+    {
+      "text": "years",
+      "label": "DATE",
+      "start": 265,
+      "end": 270
+    },
+    {
+      "text": "decades later",
+      "label": "DATE",
+      "start": 279,
+      "end": 292
+    },
+    {
+      "text": "first",
+      "label": "ORDINAL",
+      "start": 303,
+      "end": 308
+    },
+    {
+      "text": "1984",
+      "label": "DATE",
+      "start": 321,
+      "end": 325
+    },
+    {
+      "text": "annual",
+      "label": "DATE",
+      "start": 365,
+      "end": 371
+    },
+    {
+      "text": "AAAI",
+      "label": "ORG",
+      "start": 383,
+      "end": 387
+    },
+    {
+      "text": "the \"American Association of Artificial Intelligence",
+      "label": "ORG",
+      "start": 401,
+      "end": 453
+    },
+    {
+      "text": "Roger Schank",
+      "label": "PERSON",
+      "start": 457,
+      "end": 469
+    },
+    {
+      "text": "Marvin Minsky",
+      "label": "PERSON",
+      "start": 474,
+      "end": 487
+    },
+    {
+      "text": "two",
+      "label": "CARDINAL",
+      "start": 488,
+      "end": 491
+    },
+    {
+      "text": "AI",
+      "label": "ORG",
+      "start": 500,
+      "end": 502
+    },
+    {
+      "text": "the 1970s",
+      "label": "DATE",
+      "start": 547,
+      "end": 556
+    },
+    {
+      "text": "AI",
+      "label": "ORG",
+      "start": 607,
+      "end": 609
+    },
+    {
+      "text": "the 1980s",
+      "label": "DATE",
+      "start": 641,
+      "end": 650
+    },
+    {
+      "text": "AI",
+      "label": "GPE",
+      "start": 802,
+      "end": 804
+    },
+    {
+      "text": "Three years later",
+      "label": "DATE",
+      "start": 934,
+      "end": 951
+    },
+    {
+      "text": "billion-dollar",
+      "label": "MONEY",
+      "start": 956,
+      "end": 970
+    },
+    {
+      "text": "two",
+      "label": "CARDINAL",
+      "start": 1013,
+      "end": 1016
+    },
+    {
+      "text": "1987–2000",
+      "label": "CARDINAL",
+      "start": 1061,
+      "end": 1070
+    },
+    {
+      "text": "1966",
+      "label": "DATE",
+      "start": 1127,
+      "end": 1131
+    },
+    {
+      "text": "1969",
+      "label": "DATE",
+      "start": 1164,
+      "end": 1168
+    },
+    {
+      "text": "DARPA",
+      "label": "ORG",
+      "start": 1253,
+      "end": 1258
+    },
+    {
+      "text": "the Speech Understanding Research",
+      "label": "ORG",
+      "start": 1278,
+      "end": 1311
+    },
+    {
+      "text": "Carnegie Mellon University",
+      "label": "ORG",
+      "start": 1323,
+      "end": 1349
+    },
+    {
+      "text": "1973",
+      "label": "DATE",
+      "start": 1350,
+      "end": 1354
+    },
+    {
+      "text": "AI",
+      "label": "GPE",
+      "start": 1374,
+      "end": 1376
+    },
+    {
+      "text": "the United Kingdom",
+      "label": "GPE",
+      "start": 1389,
+      "end": 1407
+    },
+    {
+      "text": "Lighthill",
+      "label": "ORG",
+      "start": 1427,
+      "end": 1436
+    },
+    {
+      "text": "DARPA",
+      "label": "ORG",
+      "start": 1453,
+      "end": 1458
+    },
+    {
+      "text": "AI",
+      "label": "GPE",
+      "start": 1482,
+      "end": 1484
+    },
+    {
+      "text": "1987",
+      "label": "DATE",
+      "start": 1505,
+      "end": 1509
+    },
+    {
+      "text": "LISP",
+      "label": "ORG",
+      "start": 1527,
+      "end": 1531
+    },
+    {
+      "text": "1988",
+      "label": "DATE",
+      "start": 1547,
+      "end": 1551
+    },
+    {
+      "text": "AI",
+      "label": "GPE",
+      "start": 1585,
+      "end": 1587
+    },
+    {
+      "text": "1990s",
+      "label": "DATE",
+      "start": 1668,
+      "end": 1673
+    },
+    {
+      "text": "AI",
+      "label": "GPE",
+      "start": 1767,
+      "end": 1769
+    },
+    {
+      "text": "the early 1990s",
+      "label": "DATE",
+      "start": 1817,
+      "end": 1832
+    },
+    {
+      "text": "about 2012",
+      "label": "DATE",
+      "start": 1844,
+      "end": 1854
+    },
+    {
+      "text": "2025",
+      "label": "DATE",
+      "start": 2071,
+      "end": 2075
+    }
+  ],
+  "ALPAC": [
+    {
+      "text": "seven",
+      "label": "CARDINAL",
+      "start": 76,
+      "end": 81
+    },
+    {
+      "text": "John R. Pierce",
+      "label": "PERSON",
+      "start": 100,
+      "end": 114
+    },
+    {
+      "text": "1964",
+      "label": "DATE",
+      "start": 131,
+      "end": 135
+    },
+    {
+      "text": "United States",
+      "label": "GPE",
+      "start": 143,
+      "end": 156
+    },
+    {
+      "text": "1966",
+      "label": "DATE",
+      "start": 303,
+      "end": 307
+    },
+    {
+      "text": "U.S.",
+      "label": "GPE",
+      "start": 500,
+      "end": 504
+    },
+    {
+      "text": "first",
+      "label": "ORDINAL",
+      "start": 598,
+      "end": 603
+    },
+    {
+      "text": "AI",
+      "label": "GPE",
+      "start": 604,
+      "end": 606
+    },
+    {
+      "text": "ALPAC",
+      "label": "ORG",
+      "start": 619,
+      "end": 624
+    },
+    {
+      "text": "April 1964",
+      "label": "DATE",
+      "start": 639,
+      "end": 649
+    },
+    {
+      "text": "John R. Pierce",
+      "label": "PERSON",
+      "start": 655,
+      "end": 669
+    },
+    {
+      "text": "John R. Pierce",
+      "label": "PERSON",
+      "start": 715,
+      "end": 729
+    },
+    {
+      "text": "Bell Telephone Laboratories",
+      "label": "ORG",
+      "start": 758,
+      "end": 785
+    },
+    {
+      "text": "John B. Carroll",
+      "label": "PERSON",
+      "start": 786,
+      "end": 801
+    },
+    {
+      "text": "Harvard University",
+      "label": "ORG",
+      "start": 823,
+      "end": 841
+    },
+    {
+      "text": "Eric P. Hamp",
+      "label": "PERSON",
+      "start": 842,
+      "end": 854
+    },
+    {
+      "text": "the University of Chicago",
+      "label": "ORG",
+      "start": 872,
+      "end": 897
+    },
+    {
+      "text": "David G. Hays",
+      "label": "PERSON",
+      "start": 898,
+      "end": 911
+    },
+    {
+      "text": "RAND Corporation",
+      "label": "ORG",
+      "start": 951,
+      "end": 967
+    },
+    {
+      "text": "Charles F. Hockett",
+      "label": "PERSON",
+      "start": 968,
+      "end": 986
+    },
+    {
+      "text": "Cornell University",
+      "label": "ORG",
+      "start": 1004,
+      "end": 1022
+    },
+    {
+      "text": "Anthony Oettinger",
+      "label": "PERSON",
+      "start": 1023,
+      "end": 1040
+    },
+    {
+      "text": "Harvard University",
+      "label": "ORG",
+      "start": 1080,
+      "end": 1098
+    },
+    {
+      "text": "Alan Perlis",
+      "label": "PERSON",
+      "start": 1099,
+      "end": 1110
+    },
+    {
+      "text": "Artificial Intelligence",
+      "label": "ORG",
+      "start": 1115,
+      "end": 1138
+    },
+    {
+      "text": "Carnegie Institute of Technology Testimony",
+      "label": "ORG",
+      "start": 1155,
+      "end": 1197
+    },
+    {
+      "text": "Paul Garvin",
+      "label": "PERSON",
+      "start": 1214,
+      "end": 1225
+    },
+    {
+      "text": "Bunker-Ramo Corporation",
+      "label": "ORG",
+      "start": 1229,
+      "end": 1252
+    },
+    {
+      "text": "Gilbert King",
+      "label": "PERSON",
+      "start": 1253,
+      "end": 1265
+    },
+    {
+      "text": "Itek Corporation",
+      "label": "ORG",
+      "start": 1269,
+      "end": 1285
+    },
+    {
+      "text": "IBM Winfred P. Lehmann",
+      "label": "ORG",
+      "start": 1306,
+      "end": 1328
+    },
+    {
+      "text": "University of Texas",
+      "label": "ORG",
+      "start": 1334,
+      "end": 1353
+    },
+    {
+      "text": "Austin Jules Mersel",
+      "label": "ORG",
+      "start": 1357,
+      "end": 1376
+    },
+    {
+      "text": "Bunker-Ramo Corporation ALPAC's",
+      "label": "ORG",
+      "start": 1380,
+      "end": 1411
+    },
+    {
+      "text": "34",
+      "label": "CARDINAL",
+      "start": 1438,
+      "end": 1440
+    }
+  ],
+  "Abbreviation": [
+    {
+      "text": "Latin",
+      "label": "NORP",
+      "start": 22,
+      "end": 27
+    },
+    {
+      "text": "Latin",
+      "label": "NORP",
+      "start": 344,
+      "end": 349
+    }
+  ],
+  "Abstract Meaning Representation": [
+    {
+      "text": "Abstract Meaning Representation",
+      "label": "ORG",
+      "start": 0,
+      "end": 31
+    },
+    {
+      "text": "AMR",
+      "label": "ORG",
+      "start": 33,
+      "end": 36
+    },
+    {
+      "text": "AMR",
+      "label": "ORG",
+      "start": 77,
+      "end": 80
+    },
+    {
+      "text": "AMR",
+      "label": "ORG",
+      "start": 322,
+      "end": 325
+    },
+    {
+      "text": "AMR",
+      "label": "ORG",
+      "start": 383,
+      "end": 386
+    },
+    {
+      "text": "English",
+      "label": "LANGUAGE",
+      "start": 414,
+      "end": 421
+    },
+    {
+      "text": "Langkilde",
+      "label": "GPE",
+      "start": 560,
+      "end": 569
+    },
+    {
+      "text": "Knight",
+      "label": "ORG",
+      "start": 574,
+      "end": 580
+    },
+    {
+      "text": "1998",
+      "label": "DATE",
+      "start": 582,
+      "end": 586
+    },
+    {
+      "text": "the Penman Sentence Plan Language",
+      "label": "ORG",
+      "start": 609,
+      "end": 642
+    },
+    {
+      "text": "Natural Language Generation",
+      "label": "FAC",
+      "start": 689,
+      "end": 716
+    },
+    {
+      "text": "Banarescu",
+      "label": "GPE",
+      "start": 809,
+      "end": 818
+    },
+    {
+      "text": "2013",
+      "label": "DATE",
+      "start": 827,
+      "end": 831
+    },
+    {
+      "text": "AMR",
+      "label": "ORG",
+      "start": 979,
+      "end": 982
+    },
+    {
+      "text": "AMR",
+      "label": "ORG",
+      "start": 1058,
+      "end": 1061
+    },
+    {
+      "text": "PropBank",
+      "label": "ORG",
+      "start": 1122,
+      "end": 1130
+    },
+    {
+      "text": "AMR",
+      "label": "ORG",
+      "start": 1142,
+      "end": 1145
+    },
+    {
+      "text": "Wikipedia",
+      "label": "ORG",
+      "start": 1256,
+      "end": 1265
+    },
+    {
+      "text": "AMR",
+      "label": "ORG",
+      "start": 1285,
+      "end": 1288
+    },
+    {
+      "text": "AMR",
+      "label": "ORG",
+      "start": 1491,
+      "end": 1494
+    },
+    {
+      "text": "ISI",
+      "label": "ORG",
+      "start": 1507,
+      "end": 1510
+    },
+    {
+      "text": "AMR",
+      "label": "ORG",
+      "start": 1521,
+      "end": 1524
+    }
+  ],
+  "Adjective": [
+    {
+      "text": "noun",
+      "label": "PERSON",
+      "start": 77,
+      "end": 81
+    },
+    {
+      "text": "one",
+      "label": "CARDINAL",
+      "start": 180,
+      "end": 183
+    },
+    {
+      "text": "English",
+      "label": "LANGUAGE",
+      "start": 219,
+      "end": 226
+    },
+    {
+      "text": "Clara Oswald",
+      "label": "PERSON",
+      "start": 662,
+      "end": 674
+    },
+    {
+      "text": "three",
+      "label": "CARDINAL",
+      "start": 699,
+      "end": 704
+    }
+  ],
+  "Agglutination": [
+    {
+      "text": "Turkish",
+      "label": "NORP",
+      "start": 296,
+      "end": 303
+    }
+  ],
+  "2D to 3D conversion": [
+    {
+      "text": "2D",
+      "label": "CARDINAL",
+      "start": 0,
+      "end": 2
+    },
+    {
+      "text": "2D",
+      "label": "CARDINAL",
+      "start": 39,
+      "end": 41
+    },
+    {
+      "text": "2D",
+      "label": "CARDINAL",
+      "start": 120,
+      "end": 122
+    },
+    {
+      "text": "3D",
+      "label": "ORG",
+      "start": 140,
+      "end": 142
+    },
+    {
+      "text": "2D",
+      "label": "CARDINAL",
+      "start": 244,
+      "end": 246
+    }
+  ],
+  "3D modeling": [
+    {
+      "text": "3D",
+      "label": "ORG",
+      "start": 3,
+      "end": 5
+    },
+    {
+      "text": "3D",
+      "label": "ORG",
+      "start": 25,
+      "end": 27
+    },
+    {
+      "text": "three",
+      "label": "CARDINAL",
+      "start": 164,
+      "end": 169
+    },
+    {
+      "text": "Three",
+      "label": "CARDINAL",
+      "start": 277,
+      "end": 282
+    },
+    {
+      "text": "3D",
+      "label": "ORG",
+      "start": 522,
+      "end": 524
+    }
+  ],
+  "3D object recognition": [
+    {
+      "text": "3D",
+      "label": "ORG",
+      "start": 20,
+      "end": 22
+    },
+    {
+      "text": "3D",
+      "label": "ORG",
+      "start": 146,
+      "end": 148
+    }
+  ],
+  "3D pose estimation": [
+    {
+      "text": "3D",
+      "label": "CARDINAL",
+      "start": 0,
+      "end": 2
+    }
+  ],
+  "3D reconstruction": [],
+  "3D reconstruction from multiple images": [
+    {
+      "text": "three",
+      "label": "CARDINAL",
+      "start": 58,
+      "end": 63
+    },
+    {
+      "text": "2D",
+      "label": "CARDINAL",
+      "start": 144,
+      "end": 146
+    },
+    {
+      "text": "3D",
+      "label": "ORG",
+      "start": 159,
+      "end": 161
+    },
+    {
+      "text": "2D",
+      "label": "CARDINAL",
+      "start": 226,
+      "end": 228
+    },
+    {
+      "text": "3D",
+      "label": "ORG",
+      "start": 281,
+      "end": 283
+    },
+    {
+      "text": "two",
+      "label": "CARDINAL",
+      "start": 484,
+      "end": 487
+    },
+    {
+      "text": "two",
+      "label": "CARDINAL",
+      "start": 582,
+      "end": 585
+    },
+    {
+      "text": "recent decades",
+      "label": "DATE",
+      "start": 881,
+      "end": 895
+    },
+    {
+      "text": "Tomasi",
+      "label": "GPE",
+      "start": 1338,
+      "end": 1344
+    },
+    {
+      "text": "Kanade",
+      "label": "LOC",
+      "start": 1349,
+      "end": 1355
+    },
+    {
+      "text": "3D",
+      "label": "ORG",
+      "start": 1420,
+      "end": 1422
+    }
+  ],
+  "3D scanning": [
+    {
+      "text": "three",
+      "label": "CARDINAL",
+      "start": 86,
+      "end": 91
+    },
+    {
+      "text": "LiDAR",
+      "label": "PRODUCT",
+      "start": 612,
+      "end": 617
+    },
+    {
+      "text": "Time Of Flight 3D Scanners",
+      "label": "ORG",
+      "start": 622,
+      "end": 648
+    }
+  ],
+  "4D reconstruction": [],
+  "AI bubble": [
+    {
+      "text": "AI",
+      "label": "ORG",
+      "start": 4,
+      "end": 6
+    },
+    {
+      "text": "AI",
+      "label": "GPE",
+      "start": 74,
+      "end": 76
+    },
+    {
+      "text": "AI",
+      "label": "ORG",
+      "start": 268,
+      "end": 270
+    }
+  ],
+  "AI safety": [
+    {
+      "text": "AI",
+      "label": "GPE",
+      "start": 0,
+      "end": 2
+    },
+    {
+      "text": "AI",
+      "label": "GPE",
+      "start": 177,
+      "end": 179
+    },
+    {
+      "text": "AI",
+      "label": "ORG",
+      "start": 212,
+      "end": 214
+    },
+    {
+      "text": "AI",
+      "label": "ORG",
+      "start": 255,
+      "end": 257
+    },
+    {
+      "text": "AI",
+      "label": "ORG",
+      "start": 386,
+      "end": 388
+    },
+    {
+      "text": "AI",
+      "label": "GPE",
+      "start": 424,
+      "end": 426
+    },
+    {
+      "text": "2023",
+      "label": "DATE",
+      "start": 530,
+      "end": 534
+    },
+    {
+      "text": "AI",
+      "label": "GPE",
+      "start": 570,
+      "end": 572
+    },
+    {
+      "text": "2023",
+      "label": "DATE",
+      "start": 660,
+      "end": 664
+    },
+    {
+      "text": "AI Safety Summit",
+      "label": "ORG",
+      "start": 665,
+      "end": 681
+    },
+    {
+      "text": "the United States",
+      "label": "GPE",
+      "start": 683,
+      "end": 700
+    },
+    {
+      "text": "the United Kingdom",
+      "label": "GPE",
+      "start": 705,
+      "end": 723
+    },
+    {
+      "text": "AI Safety Institute",
+      "label": "ORG",
+      "start": 751,
+      "end": 770
+    },
+    {
+      "text": "AI",
+      "label": "GPE",
+      "start": 821,
+      "end": 823
+    },
+    {
+      "text": "AI",
+      "label": "GPE",
+      "start": 891,
+      "end": 893
+    }
+  ],
+  "Acoustic model": [],
+  "Action selection": [
+    {
+      "text": "One",
+      "label": "CARDINAL",
+      "start": 401,
+      "end": 404
+    }
+  ],
+  "Activation function": [
+    {
+      "text": "node",
+      "label": "GPE",
+      "start": 113,
+      "end": 117
+    },
+    {
+      "text": "2012",
+      "label": "DATE",
+      "start": 346,
+      "end": 350
+    },
+    {
+      "text": "Hinton",
+      "label": "GPE",
+      "start": 389,
+      "end": 395
+    },
+    {
+      "text": "ReLU",
+      "label": "ORG",
+      "start": 407,
+      "end": 411
+    },
+    {
+      "text": "2012",
+      "label": "DATE",
+      "start": 424,
+      "end": 428
+    },
+    {
+      "text": "AlexNet",
+      "label": "ORG",
+      "start": 429,
+      "end": 436
+    },
+    {
+      "text": "2015",
+      "label": "DATE",
+      "start": 470,
+      "end": 474
+    },
+    {
+      "text": "ResNet",
+      "label": "PRODUCT",
+      "start": 475,
+      "end": 481
+    },
+    {
+      "text": "ReLU",
+      "label": "ORG",
+      "start": 519,
+      "end": 523
+    },
+    {
+      "text": "GELU",
+      "label": "ORG",
+      "start": 529,
+      "end": 533
+    },
+    {
+      "text": "2018",
+      "label": "DATE",
+      "start": 557,
+      "end": 561
+    },
+    {
+      "text": "BERT",
+      "label": "ORG",
+      "start": 562,
+      "end": 566
+    }
+  ],
+  "Action potential": [
+    {
+      "text": "first",
+      "label": "ORDINAL",
+      "start": 1147,
+      "end": 1152
+    },
+    {
+      "text": "two",
+      "label": "CARDINAL",
+      "start": 3007,
+      "end": 3010
+    },
+    {
+      "text": "One",
+      "label": "CARDINAL",
+      "start": 3047,
+      "end": 3050
+    },
+    {
+      "text": "one",
+      "label": "CARDINAL",
+      "start": 3202,
+      "end": 3205
+    },
+    {
+      "text": "100",
+      "label": "CARDINAL",
+      "start": 3268,
+      "end": 3271
+    }
+  ],
+  "Adaptive control": [],
+  "Alexander Bain (philosopher)": [
+    {
+      "text": "Alexander Bain",
+      "label": "PERSON",
+      "start": 0,
+      "end": 14
+    },
+    {
+      "text": "11 June 1818",
+      "label": "DATE",
+      "start": 16,
+      "end": 28
+    },
+    {
+      "text": "18 September 1903",
+      "label": "DATE",
+      "start": 31,
+      "end": 48
+    },
+    {
+      "text": "Scottish",
+      "label": "NORP",
+      "start": 56,
+      "end": 64
+    },
+    {
+      "text": "British",
+      "label": "NORP",
+      "start": 103,
+      "end": 110
+    },
+    {
+      "text": "Mind",
+      "label": "PERSON",
+      "start": 269,
+      "end": 273
+    },
+    {
+      "text": "first",
+      "label": "ORDINAL",
+      "start": 279,
+      "end": 284
+    },
+    {
+      "text": "Bain",
+      "label": "PERSON",
+      "start": 432,
+      "end": 436
+    },
+    {
+      "text": "Regius Chair",
+      "label": "WORK_OF_ART",
+      "start": 455,
+      "end": 467
+    },
+    {
+      "text": "the University of Aberdeen",
+      "label": "ORG",
+      "start": 503,
+      "end": 529
+    },
+    {
+      "text": "English",
+      "label": "LANGUAGE",
+      "start": 589,
+      "end": 596
+    },
+    {
+      "text": "the University of Aberdeen",
+      "label": "ORG",
+      "start": 645,
+      "end": 671
+    }
+  ],
+  "Artificial neuron": [
+    {
+      "text": "zeros",
+      "label": "CARDINAL",
+      "start": 1157,
+      "end": 1162
+    },
+    {
+      "text": "ReLU",
+      "label": "ORG",
+      "start": 1193,
+      "end": 1197
+    },
+    {
+      "text": "Nv neuron",
+      "label": "PERSON",
+      "start": 1692,
+      "end": 1701
+    },
+    {
+      "text": "linear",
+      "label": "ORG",
+      "start": 1718,
+      "end": 1724
+    },
+    {
+      "text": "McCulloch",
+      "label": "GPE",
+      "start": 1748,
+      "end": 1757
+    },
+    {
+      "text": "MCP",
+      "label": "ORG",
+      "start": 1765,
+      "end": 1768
+    },
+    {
+      "text": "one",
+      "label": "CARDINAL",
+      "start": 1956,
+      "end": 1959
+    }
+  ],
+  "Backpropagation": [
+    {
+      "text": "one",
+      "label": "CARDINAL",
+      "start": 398,
+      "end": 401
+    },
+    {
+      "text": "Adaptive Moment Estimation",
+      "label": "ORG",
+      "start": 991,
+      "end": 1017
+    }
+  ],
+  "Biological cybernetics": [
+    {
+      "text": "Great Britain",
+      "label": "GPE",
+      "start": 1258,
+      "end": 1271
+    },
+    {
+      "text": "North America",
+      "label": "LOC",
+      "start": 1302,
+      "end": 1315
+    },
+    {
+      "text": "Australia",
+      "label": "GPE",
+      "start": 1320,
+      "end": 1329
+    },
+    {
+      "text": "Britain",
+      "label": "GPE",
+      "start": 2144,
+      "end": 2151
+    },
+    {
+      "text": "North America",
+      "label": "LOC",
+      "start": 2185,
+      "end": 2198
+    },
+    {
+      "text": "Australia",
+      "label": "GPE",
+      "start": 2203,
+      "end": 2212
+    },
+    {
+      "text": "British",
+      "label": "NORP",
+      "start": 2291,
+      "end": 2298
+    }
+  ],
+  "Biological neural network": [],
+  "Biologically-inspired computing": [],
+  "Active learning (machine learning)": [
+    {
+      "text": "Amazon Mechanical Turk",
+      "label": "ORG",
+      "start": 1562,
+      "end": 1584
+    }
+  ],
+  "Adobe Firefly": [
+    {
+      "text": "Adobe Firefly",
+      "label": "PERSON",
+      "start": 0,
+      "end": 13
+    },
+    {
+      "text": "Adobe Creative Cloud",
+      "label": "PERSON",
+      "start": 180,
+      "end": 200
+    },
+    {
+      "text": "Creative Cloud",
+      "label": "PERSON",
+      "start": 236,
+      "end": 250
+    },
+    {
+      "text": "Photoshop",
+      "label": "PRODUCT",
+      "start": 267,
+      "end": 276
+    },
+    {
+      "text": "Generative Fill",
+      "label": "PERSON",
+      "start": 279,
+      "end": 294
+    },
+    {
+      "text": "Adobe Firefly",
+      "label": "PERSON",
+      "start": 431,
+      "end": 444
+    },
+    {
+      "text": "Adobe's Sensei",
+      "label": "ORG",
+      "start": 464,
+      "end": 478
+    },
+    {
+      "text": "Creative Commons",
+      "label": "ORG",
+      "start": 525,
+      "end": 541
+    },
+    {
+      "text": "Flickr Commons",
+      "label": "ORG",
+      "start": 557,
+      "end": 571
+    },
+    {
+      "text": "300 million",
+      "label": "CARDINAL",
+      "start": 583,
+      "end": 594
+    },
+    {
+      "text": "Adobe Stock",
+      "label": "ORG",
+      "start": 616,
+      "end": 627
+    },
+    {
+      "text": "Adobe",
+      "label": "ORG",
+      "start": 699,
+      "end": 704
+    },
+    {
+      "text": "June 22, 2023",
+      "label": "DATE",
+      "start": 855,
+      "end": 868
+    }
+  ],
+  "Adversarial machine learning": [
+    {
+      "text": "May 2020",
+      "label": "DATE",
+      "start": 145,
+      "end": 153
+    },
+    {
+      "text": "IID",
+      "label": "ORG",
+      "start": 460,
+      "end": 463
+    },
+    {
+      "text": "Byzantine",
+      "label": "NORP",
+      "start": 755,
+      "end": 764
+    }
+  ],
+  "1.58-bit large language model": [
+    {
+      "text": "1.58",
+      "label": "CARDINAL",
+      "start": 2,
+      "end": 6
+    },
+    {
+      "text": "LLM",
+      "label": "ORG",
+      "start": 57,
+      "end": 60
+    },
+    {
+      "text": "only three",
+      "label": "CARDINAL",
+      "start": 201,
+      "end": 211
+    },
+    {
+      "text": "-1",
+      "label": "ORG",
+      "start": 220,
+      "end": 222
+    },
+    {
+      "text": "0",
+      "label": "CARDINAL",
+      "start": 224,
+      "end": 225
+    },
+    {
+      "text": "16-bit",
+      "label": "QUANTITY",
+      "start": 483,
+      "end": 489
+    },
+    {
+      "text": "several billion",
+      "label": "CARDINAL",
+      "start": 588,
+      "end": 603
+    },
+    {
+      "text": "1.58-bit",
+      "label": "QUANTITY",
+      "start": 635,
+      "end": 643
+    },
+    {
+      "text": "AI",
+      "label": "GPE",
+      "start": 754,
+      "end": 756
+    },
+    {
+      "text": "1.58",
+      "label": "CARDINAL",
+      "start": 820,
+      "end": 824
+    },
+    {
+      "text": "three",
+      "label": "CARDINAL",
+      "start": 869,
+      "end": 874
+    },
+    {
+      "text": "2",
+      "label": "CARDINAL",
+      "start": 895,
+      "end": 896
+    },
+    {
+      "text": "\\displaystyle",
+      "label": "PERSON",
+      "start": 909,
+      "end": 922
+    },
+    {
+      "text": "2}3\\approx 1.58",
+      "label": "DATE",
+      "start": 930,
+      "end": 945
+    },
+    {
+      "text": "1-bit",
+      "label": "QUANTITY",
+      "start": 1015,
+      "end": 1020
+    },
+    {
+      "text": "-1",
+      "label": "ORG",
+      "start": 1119,
+      "end": 1121
+    }
+  ],
+  "AI agent": [
+    {
+      "text": "AI",
+      "label": "ORG",
+      "start": 54,
+      "end": 56
+    },
+    {
+      "text": "AI",
+      "label": "ORG",
+      "start": 94,
+      "end": 96
+    },
+    {
+      "text": "AI",
+      "label": "GPE",
+      "start": 116,
+      "end": 118
+    },
+    {
+      "text": "Agentic AI",
+      "label": "PERSON",
+      "start": 234,
+      "end": 244
+    }
+  ],
+  "AI anthropomorphism": [
+    {
+      "text": "the earliest days",
+      "label": "DATE",
+      "start": 151,
+      "end": 168
+    },
+    {
+      "text": "AI",
+      "label": "GPE",
+      "start": 172,
+      "end": 174
+    },
+    {
+      "text": "AI",
+      "label": "GPE",
+      "start": 303,
+      "end": 305
+    },
+    {
+      "text": "Contemporary AI",
+      "label": "ORG",
+      "start": 338,
+      "end": 353
+    },
+    {
+      "text": "today",
+      "label": "DATE",
+      "start": 362,
+      "end": 367
+    },
+    {
+      "text": "AI",
+      "label": "GPE",
+      "start": 562,
+      "end": 564
+    },
+    {
+      "text": "AI",
+      "label": "ORG",
+      "start": 775,
+      "end": 777
+    },
+    {
+      "text": "AI",
+      "label": "ORG",
+      "start": 1094,
+      "end": 1096
+    },
+    {
+      "text": "daily",
+      "label": "DATE",
+      "start": 1170,
+      "end": 1175
+    }
+  ],
+  "AI tarpit": [],
+  "API": [
+    {
+      "text": "API",
+      "label": "ORG",
+      "start": 38,
+      "end": 41
+    },
+    {
+      "text": "API",
+      "label": "ORG",
+      "start": 286,
+      "end": 289
+    },
+    {
+      "text": "API",
+      "label": "ORG",
+      "start": 382,
+      "end": 385
+    },
+    {
+      "text": "API",
+      "label": "ORG",
+      "start": 396,
+      "end": 399
+    },
+    {
+      "text": "API",
+      "label": "ORG",
+      "start": 770,
+      "end": 773
+    },
+    {
+      "text": "API",
+      "label": "ORG",
+      "start": 970,
+      "end": 973
+    },
+    {
+      "text": "API",
+      "label": "ORG",
+      "start": 1002,
+      "end": 1005
+    },
+    {
+      "text": "API",
+      "label": "ORG",
+      "start": 1073,
+      "end": 1076
+    },
+    {
+      "text": "One",
+      "label": "CARDINAL",
+      "start": 1167,
+      "end": 1170
+    },
+    {
+      "text": "API",
+      "label": "ORG",
+      "start": 1372,
+      "end": 1375
+    },
+    {
+      "text": "API",
+      "label": "ORG",
+      "start": 1516,
+      "end": 1519
+    },
+    {
+      "text": "the 1940s",
+      "label": "DATE",
+      "start": 1770,
+      "end": 1779
+    },
+    {
+      "text": "the 1960s",
+      "label": "DATE",
+      "start": 1818,
+      "end": 1827
+    },
+    {
+      "text": "70s",
+      "label": "DATE",
+      "start": 1832,
+      "end": 1835
+    }
+  ],
+  "1-bit computing": [
+    {
+      "text": "1-bit",
+      "label": "QUANTITY",
+      "start": 26,
+      "end": 31
+    },
+    {
+      "text": "1",
+      "label": "CARDINAL",
+      "start": 80,
+      "end": 81
+    },
+    {
+      "text": "1/8",
+      "label": "CARDINAL",
+      "start": 87,
+      "end": 90
+    },
+    {
+      "text": "1",
+      "label": "CARDINAL",
+      "start": 110,
+      "end": 111
+    },
+    {
+      "text": "CPU",
+      "label": "ORG",
+      "start": 141,
+      "end": 144
+    },
+    {
+      "text": "1-bit",
+      "label": "QUANTITY",
+      "start": 320,
+      "end": 325
+    },
+    {
+      "text": "1-bit",
+      "label": "QUANTITY",
+      "start": 365,
+      "end": 370
+    },
+    {
+      "text": "two",
+      "label": "CARDINAL",
+      "start": 395,
+      "end": 398
+    },
+    {
+      "text": "1-bit",
+      "label": "QUANTITY",
+      "start": 593,
+      "end": 598
+    },
+    {
+      "text": "at least one",
+      "label": "CARDINAL",
+      "start": 620,
+      "end": 632
+    },
+    {
+      "text": "4-bit",
+      "label": "QUANTITY",
+      "start": 667,
+      "end": 672
+    },
+    {
+      "text": "8-bit",
+      "label": "QUANTITY",
+      "start": 697,
+      "end": 702
+    },
+    {
+      "text": "1-bit",
+      "label": "QUANTITY",
+      "start": 710,
+      "end": 715
+    },
+    {
+      "text": "1-bit",
+      "label": "QUANTITY",
+      "start": 739,
+      "end": 744
+    },
+    {
+      "text": "1-bit",
+      "label": "QUANTITY",
+      "start": 877,
+      "end": 882
+    },
+    {
+      "text": "first",
+      "label": "ORDINAL",
+      "start": 906,
+      "end": 911
+    },
+    {
+      "text": "2013",
+      "label": "DATE",
+      "start": 953,
+      "end": 957
+    },
+    {
+      "text": "1-bit",
+      "label": "QUANTITY",
+      "start": 963,
+      "end": 968
+    },
+    {
+      "text": "one",
+      "label": "CARDINAL",
+      "start": 969,
+      "end": 972
+    },
+    {
+      "text": "only 178",
+      "label": "CARDINAL",
+      "start": 1007,
+      "end": 1015
+    },
+    {
+      "text": "20",
+      "label": "CARDINAL",
+      "start": 1079,
+      "end": 1081
+    },
+    {
+      "text": "MIPS",
+      "label": "ORG",
+      "start": 1082,
+      "end": 1086
+    }
+  ],
+  "12-bit computing": [
+    {
+      "text": "12",
+      "label": "CARDINAL",
+      "start": 26,
+      "end": 28
+    },
+    {
+      "text": "12",
+      "label": "CARDINAL",
+      "start": 100,
+      "end": 102
+    },
+    {
+      "text": "1.5",
+      "label": "CARDINAL",
+      "start": 109,
+      "end": 112
+    },
+    {
+      "text": "12",
+      "label": "CARDINAL",
+      "start": 133,
+      "end": 135
+    },
+    {
+      "text": "CPU",
+      "label": "ORG",
+      "start": 165,
+      "end": 168
+    },
+    {
+      "text": "ASCII",
+      "label": "ORG",
+      "start": 332,
+      "end": 337
+    },
+    {
+      "text": "the late 1960s",
+      "label": "DATE",
+      "start": 341,
+      "end": 355
+    },
+    {
+      "text": "six",
+      "label": "CARDINAL",
+      "start": 357,
+      "end": 360
+    },
+    {
+      "text": "12",
+      "label": "CARDINAL",
+      "start": 399,
+      "end": 401
+    },
+    {
+      "text": "two",
+      "label": "CARDINAL",
+      "start": 429,
+      "end": 432
+    },
+    {
+      "text": "12",
+      "label": "CARDINAL",
+      "start": 571,
+      "end": 573
+    },
+    {
+      "text": "Intersil 6100",
+      "label": "PRODUCT",
+      "start": 630,
+      "end": 643
+    },
+    {
+      "text": "August 1963 to mid-1990",
+      "label": "DATE",
+      "start": 703,
+      "end": 726
+    },
+    {
+      "text": "12",
+      "label": "CARDINAL",
+      "start": 776,
+      "end": 778
+    },
+    {
+      "text": "PIC",
+      "label": "ORG",
+      "start": 800,
+      "end": 803
+    },
+    {
+      "text": "12",
+      "label": "CARDINAL",
+      "start": 827,
+      "end": 829
+    },
+    {
+      "text": "12",
+      "label": "CARDINAL",
+      "start": 879,
+      "end": 881
+    },
+    {
+      "text": "3",
+      "label": "CARDINAL",
+      "start": 900,
+      "end": 901
+    },
+    {
+      "text": "4096",
+      "label": "DATE",
+      "start": 930,
+      "end": 934
+    },
+    {
+      "text": "10000",
+      "label": "DATE",
+      "start": 936,
+      "end": 941
+    },
+    {
+      "text": "1000 hexadecimal",
+      "label": "QUANTITY",
+      "start": 949,
+      "end": 965
+    },
+    {
+      "text": "12-bit",
+      "label": "QUANTITY",
+      "start": 1019,
+      "end": 1025
+    },
+    {
+      "text": "4096",
+      "label": "DATE",
+      "start": 1063,
+      "end": 1067
+    },
+    {
+      "text": "4 kW",
+      "label": "QUANTITY",
+      "start": 1075,
+      "end": 1079
+    },
+    {
+      "text": "IBM",
+      "label": "ORG",
+      "start": 1109,
+      "end": 1112
+    },
+    {
+      "text": "12",
+      "label": "CARDINAL",
+      "start": 1150,
+      "end": 1152
+    },
+    {
+      "text": "4096",
+      "label": "DATE",
+      "start": 1237,
+      "end": 1241
+    }
+  ],
+  "128-bit computing": [
+    {
+      "text": "128",
+      "label": "CARDINAL",
+      "start": 26,
+      "end": 29
+    },
+    {
+      "text": "128",
+      "label": "CARDINAL",
+      "start": 101,
+      "end": 104
+    },
+    {
+      "text": "16",
+      "label": "CARDINAL",
+      "start": 111,
+      "end": 113
+    },
+    {
+      "text": "128",
+      "label": "CARDINAL",
+      "start": 134,
+      "end": 137
+    },
+    {
+      "text": "CPU",
+      "label": "ORG",
+      "start": 167,
+      "end": 170
+    },
+    {
+      "text": "July 2025",
+      "label": "DATE",
+      "start": 306,
+      "end": 315
+    },
+    {
+      "text": "128",
+      "label": "CARDINAL",
+      "start": 388,
+      "end": 391
+    },
+    {
+      "text": "128",
+      "label": "CARDINAL",
+      "start": 490,
+      "end": 493
+    },
+    {
+      "text": "Hardware",
+      "label": "PRODUCT",
+      "start": 532,
+      "end": 540
+    }
+  ],
+  "16-bit computing": [
+    {
+      "text": "16",
+      "label": "CARDINAL",
+      "start": 26,
+      "end": 28
+    },
+    {
+      "text": "16",
+      "label": "CARDINAL",
+      "start": 100,
+      "end": 102
+    },
+    {
+      "text": "2",
+      "label": "CARDINAL",
+      "start": 109,
+      "end": 110
+    },
+    {
+      "text": "16",
+      "label": "CARDINAL",
+      "start": 131,
+      "end": 133
+    },
+    {
+      "text": "CPU",
+      "label": "ORG",
+      "start": 163,
+      "end": 166
+    },
+    {
+      "text": "16",
+      "label": "CARDINAL",
+      "start": 296,
+      "end": 298
+    },
+    {
+      "text": "16",
+      "label": "CARDINAL",
+      "start": 346,
+      "end": 348
+    },
+    {
+      "text": "16-bit",
+      "label": "QUANTITY",
+      "start": 372,
+      "end": 378
+    },
+    {
+      "text": "216",
+      "label": "CARDINAL",
+      "start": 398,
+      "end": 401
+    },
+    {
+      "text": "16",
+      "label": "CARDINAL",
+      "start": 470,
+      "end": 472
+    },
+    {
+      "text": "two",
+      "label": "CARDINAL",
+      "start": 531,
+      "end": 534
+    },
+    {
+      "text": "0",
+      "label": "CARDINAL",
+      "start": 577,
+      "end": 578
+    },
+    {
+      "text": "65,535",
+      "label": "CARDINAL",
+      "start": 587,
+      "end": 593
+    },
+    {
+      "text": "216",
+      "label": "CARDINAL",
+      "start": 595,
+      "end": 598
+    },
+    {
+      "text": "1",
+      "label": "CARDINAL",
+      "start": 601,
+      "end": 602
+    },
+    {
+      "text": "32,767",
+      "label": "CARDINAL",
+      "start": 686,
+      "end": 692
+    },
+    {
+      "text": "215",
+      "label": "CARDINAL",
+      "start": 694,
+      "end": 697
+    },
+    {
+      "text": "1",
+      "label": "CARDINAL",
+      "start": 700,
+      "end": 701
+    },
+    {
+      "text": "two",
+      "label": "CARDINAL",
+      "start": 725,
+      "end": 728
+    },
+    {
+      "text": "216",
+      "label": "CARDINAL",
+      "start": 749,
+      "end": 752
+    },
+    {
+      "text": "65,536",
+      "label": "CARDINAL",
+      "start": 756,
+      "end": 762
+    },
+    {
+      "text": "16-bit",
+      "label": "QUANTITY",
+      "start": 781,
+      "end": 787
+    },
+    {
+      "text": "64",
+      "label": "CARDINAL",
+      "start": 825,
+      "end": 827
+    },
+    {
+      "text": "KiB",
+      "label": "ORG",
+      "start": 828,
+      "end": 831
+    },
+    {
+      "text": "65,536",
+      "label": "CARDINAL",
+      "start": 833,
+      "end": 839
+    },
+    {
+      "text": "byte",
+      "label": "ORG",
+      "start": 850,
+      "end": 854
+    },
+    {
+      "text": "16",
+      "label": "CARDINAL",
+      "start": 910,
+      "end": 912
+    }
+  ],
+  "24-bit computing": [
+    {
+      "text": "24",
+      "label": "CARDINAL",
+      "start": 26,
+      "end": 28
+    },
+    {
+      "text": "24",
+      "label": "CARDINAL",
+      "start": 100,
+      "end": 102
+    },
+    {
+      "text": "3",
+      "label": "CARDINAL",
+      "start": 109,
+      "end": 110
+    },
+    {
+      "text": "24",
+      "label": "CARDINAL",
+      "start": 131,
+      "end": 133
+    },
+    {
+      "text": "CPU",
+      "label": "ORG",
+      "start": 163,
+      "end": 166
+    },
+    {
+      "text": "24",
+      "label": "CARDINAL",
+      "start": 304,
+      "end": 306
+    },
+    {
+      "text": "CDC",
+      "label": "ORG",
+      "start": 332,
+      "end": 335
+    },
+    {
+      "text": "24",
+      "label": "CARDINAL",
+      "start": 344,
+      "end": 346
+    },
+    {
+      "text": "1604",
+      "label": "DATE",
+      "start": 370,
+      "end": 374
+    },
+    {
+      "text": "CDC",
+      "label": "ORG",
+      "start": 376,
+      "end": 379
+    },
+    {
+      "text": "3000",
+      "label": "CARDINAL",
+      "start": 386,
+      "end": 390
+    },
+    {
+      "text": "930",
+      "label": "CARDINAL",
+      "start": 403,
+      "end": 406
+    },
+    {
+      "text": "940",
+      "label": "CARDINAL",
+      "start": 415,
+      "end": 418
+    },
+    {
+      "text": "ICT",
+      "label": "ORG",
+      "start": 424,
+      "end": 427
+    },
+    {
+      "text": "1900",
+      "label": "DATE",
+      "start": 428,
+      "end": 432
+    },
+    {
+      "text": "Datacraft",
+      "label": "ORG",
+      "start": 474,
+      "end": 483
+    },
+    {
+      "text": "SWORD",
+      "label": "PERSON",
+      "start": 524,
+      "end": 529
+    },
+    {
+      "text": "24",
+      "label": "CARDINAL",
+      "start": 562,
+      "end": 564
+    },
+    {
+      "text": "24",
+      "label": "CARDINAL",
+      "start": 676,
+      "end": 678
+    },
+    {
+      "text": "0",
+      "label": "CARDINAL",
+      "start": 687,
+      "end": 688
+    },
+    {
+      "text": "16,777,215",
+      "label": "CARDINAL",
+      "start": 692,
+      "end": 702
+    },
+    {
+      "text": "24",
+      "label": "CARDINAL",
+      "start": 786,
+      "end": 788
+    },
+    {
+      "text": "8,388,607",
+      "label": "CARDINAL",
+      "start": 811,
+      "end": 820
+    }
+  ],
+  "256-bit computing": [
+    {
+      "text": "256",
+      "label": "CARDINAL",
+      "start": 26,
+      "end": 29
+    },
+    {
+      "text": "256",
+      "label": "CARDINAL",
+      "start": 101,
+      "end": 104
+    },
+    {
+      "text": "32",
+      "label": "CARDINAL",
+      "start": 111,
+      "end": 113
+    },
+    {
+      "text": "256",
+      "label": "CARDINAL",
+      "start": 134,
+      "end": 137
+    },
+    {
+      "text": "CPU",
+      "label": "ORG",
+      "start": 167,
+      "end": 170
+    },
+    {
+      "text": "256",
+      "label": "CARDINAL",
+      "start": 381,
+      "end": 384
+    },
+    {
+      "text": "256",
+      "label": "CARDINAL",
+      "start": 456,
+      "end": 459
+    }
+  ],
+  "32-bit computing": [
+    {
+      "text": "32",
+      "label": "CARDINAL",
+      "start": 26,
+      "end": 28
+    },
+    {
+      "text": "32",
+      "label": "CARDINAL",
+      "start": 167,
+      "end": 169
+    },
+    {
+      "text": "32",
+      "label": "CARDINAL",
+      "start": 213,
+      "end": 215
+    },
+    {
+      "text": "32",
+      "label": "CARDINAL",
+      "start": 325,
+      "end": 327
+    },
+    {
+      "text": "32-bit",
+      "label": "QUANTITY",
+      "start": 363,
+      "end": 369
+    },
+    {
+      "text": "up to 4",
+      "label": "CARDINAL",
+      "start": 394,
+      "end": 401
+    },
+    {
+      "text": "RAM",
+      "label": "ORG",
+      "start": 409,
+      "end": 412
+    },
+    {
+      "text": "32",
+      "label": "CARDINAL",
+      "start": 496,
+      "end": 498
+    },
+    {
+      "text": "the earliest days",
+      "label": "DATE",
+      "start": 532,
+      "end": 549
+    },
+    {
+      "text": "first",
+      "label": "ORDINAL",
+      "start": 657,
+      "end": 662
+    },
+    {
+      "text": "16/32-bit",
+      "label": "QUANTITY",
+      "start": 670,
+      "end": 679
+    },
+    {
+      "text": "the Motorola 68000",
+      "label": "ORG",
+      "start": 696,
+      "end": 714
+    },
+    {
+      "text": "the late 1970s",
+      "label": "DATE",
+      "start": 734,
+      "end": 748
+    },
+    {
+      "text": "Macintosh",
+      "label": "ORG",
+      "start": 790,
+      "end": 799
+    },
+    {
+      "text": "32",
+      "label": "CARDINAL",
+      "start": 807,
+      "end": 809
+    },
+    {
+      "text": "the HP FOCUS",
+      "label": "ORG",
+      "start": 838,
+      "end": 850
+    },
+    {
+      "text": "Motorola 68020",
+      "label": "ORG",
+      "start": 852,
+      "end": 866
+    },
+    {
+      "text": "Intel",
+      "label": "ORG",
+      "start": 871,
+      "end": 876
+    },
+    {
+      "text": "80386",
+      "label": "PRODUCT",
+      "start": 877,
+      "end": 882
+    },
+    {
+      "text": "the early to mid 1980s",
+      "label": "DATE",
+      "start": 900,
+      "end": 922
+    },
+    {
+      "text": "the early 1990s",
+      "label": "DATE",
+      "start": 946,
+      "end": 961
+    },
+    {
+      "text": "first",
+      "label": "ORDINAL",
+      "start": 1032,
+      "end": 1037
+    },
+    {
+      "text": "the World Wide Web",
+      "label": "EVENT",
+      "start": 1055,
+      "end": 1073
+    },
+    {
+      "text": "32",
+      "label": "CARDINAL",
+      "start": 1081,
+      "end": 1083
+    },
+    {
+      "text": "64",
+      "label": "CARDINAL",
+      "start": 1191,
+      "end": 1193
+    },
+    {
+      "text": "64",
+      "label": "CARDINAL",
+      "start": 1221,
+      "end": 1223
+    },
+    {
+      "text": "the mid-2000s",
+      "label": "DATE",
+      "start": 1248,
+      "end": 1261
+    },
+    {
+      "text": "32",
+      "label": "CARDINAL",
+      "start": 1304,
+      "end": 1306
+    },
+    {
+      "text": "4",
+      "label": "CARDINAL",
+      "start": 1328,
+      "end": 1329
+    },
+    {
+      "text": "64",
+      "label": "CARDINAL",
+      "start": 1419,
+      "end": 1421
+    }
+  ],
+  "4-bit computing": [
+    {
+      "text": "4-bit",
+      "label": "QUANTITY",
+      "start": 0,
+      "end": 5
+    },
+    {
+      "text": "4",
+      "label": "CARDINAL",
+      "start": 96,
+      "end": 97
+    },
+    {
+      "text": "4-bit",
+      "label": "QUANTITY",
+      "start": 109,
+      "end": 114
+    },
+    {
+      "text": "CPU",
+      "label": "ORG",
+      "start": 140,
+      "end": 143
+    },
+    {
+      "text": "four",
+      "label": "CARDINAL",
+      "start": 268,
+      "end": 272
+    },
+    {
+      "text": "24",
+      "label": "CARDINAL",
+      "start": 310,
+      "end": 312
+    },
+    {
+      "text": "16",
+      "label": "CARDINAL",
+      "start": 315,
+      "end": 317
+    },
+    {
+      "text": "0 to 15",
+      "label": "CARDINAL",
+      "start": 351,
+      "end": 358
+    },
+    {
+      "text": "4-bit",
+      "label": "QUANTITY",
+      "start": 360,
+      "end": 365
+    },
+    {
+      "text": "4-bit",
+      "label": "QUANTITY",
+      "start": 420,
+      "end": 425
+    },
+    {
+      "text": "4-bit",
+      "label": "QUANTITY",
+      "start": 450,
+      "end": 455
+    },
+    {
+      "text": "4-bit",
+      "label": "QUANTITY",
+      "start": 466,
+      "end": 471
+    },
+    {
+      "text": "2025",
+      "label": "DATE",
+      "start": 522,
+      "end": 526
+    },
+    {
+      "text": "4",
+      "label": "CARDINAL",
+      "start": 528,
+      "end": 529
+    },
+    {
+      "text": "4-bit",
+      "label": "QUANTITY",
+      "start": 720,
+      "end": 725
+    },
+    {
+      "text": "BCD",
+      "label": "ORG",
+      "start": 769,
+      "end": 772
+    },
+    {
+      "text": "4-bit",
+      "label": "QUANTITY",
+      "start": 851,
+      "end": 856
+    },
+    {
+      "text": "4-bit",
+      "label": "QUANTITY",
+      "start": 1027,
+      "end": 1032
+    },
+    {
+      "text": "Intel",
+      "label": "ORG",
+      "start": 1053,
+      "end": 1058
+    },
+    {
+      "text": "4004",
+      "label": "DATE",
+      "start": 1059,
+      "end": 1063
+    },
+    {
+      "text": "12-bit",
+      "label": "QUANTITY",
+      "start": 1071,
+      "end": 1077
+    },
+    {
+      "text": "4-bit",
+      "label": "QUANTITY",
+      "start": 1094,
+      "end": 1099
+    },
+    {
+      "text": "4-bit",
+      "label": "QUANTITY",
+      "start": 1245,
+      "end": 1250
+    },
+    {
+      "text": "4-bit",
+      "label": "QUANTITY",
+      "start": 1281,
+      "end": 1286
+    },
+    {
+      "text": "4-bit",
+      "label": "QUANTITY",
+      "start": 1441,
+      "end": 1446
+    },
+    {
+      "text": "the 1990s",
+      "label": "DATE",
+      "start": 1470,
+      "end": 1479
+    }
+  ],
+  "48-bit computing": [
+    {
+      "text": "48",
+      "label": "CARDINAL",
+      "start": 26,
+      "end": 28
+    },
+    {
+      "text": "281,474,976,710,656",
+      "label": "CARDINAL",
+      "start": 56,
+      "end": 75
+    },
+    {
+      "text": "248",
+      "label": "CARDINAL",
+      "start": 77,
+      "end": 80
+    },
+    {
+      "text": "2.814749767×1014",
+      "label": "CARDINAL",
+      "start": 84,
+      "end": 100
+    },
+    {
+      "text": "0",
+      "label": "CARDINAL",
+      "start": 167,
+      "end": 168
+    },
+    {
+      "text": "248",
+      "label": "CARDINAL",
+      "start": 198,
+      "end": 201
+    },
+    {
+      "text": "1",
+      "label": "CARDINAL",
+      "start": 204,
+      "end": 205
+    },
+    {
+      "text": "two",
+      "label": "CARDINAL",
+      "start": 219,
+      "end": 222
+    },
+    {
+      "text": "140,737,488,355,327",
+      "label": "CARDINAL",
+      "start": 281,
+      "end": 300
+    },
+    {
+      "text": "1",
+      "label": "CARDINAL",
+      "start": 308,
+      "end": 309
+    },
+    {
+      "text": "48-bit",
+      "label": "QUANTITY",
+      "start": 314,
+      "end": 320
+    },
+    {
+      "text": "256",
+      "label": "CARDINAL",
+      "start": 371,
+      "end": 374
+    },
+    {
+      "text": "48",
+      "label": "CARDINAL",
+      "start": 397,
+      "end": 399
+    },
+    {
+      "text": "48",
+      "label": "CARDINAL",
+      "start": 451,
+      "end": 453
+    },
+    {
+      "text": "6",
+      "label": "CARDINAL",
+      "start": 460,
+      "end": 461
+    },
+    {
+      "text": "width",
+      "label": "GPE",
+      "start": 473,
+      "end": 478
+    },
+    {
+      "text": "48-bit",
+      "label": "QUANTITY",
+      "start": 497,
+      "end": 503
+    },
+    {
+      "text": "CPU",
+      "label": "ORG",
+      "start": 504,
+      "end": 507
+    }
+  ],
+  "512-bit computing": [
+    {
+      "text": "512",
+      "label": "CARDINAL",
+      "start": 26,
+      "end": 29
+    },
+    {
+      "text": "512",
+      "label": "CARDINAL",
+      "start": 101,
+      "end": 104
+    },
+    {
+      "text": "64",
+      "label": "CARDINAL",
+      "start": 111,
+      "end": 113
+    },
+    {
+      "text": "512",
+      "label": "CARDINAL",
+      "start": 134,
+      "end": 137
+    },
+    {
+      "text": "CPU",
+      "label": "ORG",
+      "start": 167,
+      "end": 170
+    },
+    {
+      "text": "512",
+      "label": "CARDINAL",
+      "start": 381,
+      "end": 384
+    },
+    {
+      "text": "512",
+      "label": "CARDINAL",
+      "start": 456,
+      "end": 459
+    }
+  ],
+  "A. Douglas Stone": [
+    {
+      "text": "A. Douglas Stone",
+      "label": "ORG",
+      "start": 0,
+      "end": 16
+    },
+    {
+      "text": "Applied Physics and Physics",
+      "label": "ORG",
+      "start": 48,
+      "end": 75
+    },
+    {
+      "text": "Yale University",
+      "label": "ORG",
+      "start": 79,
+      "end": 94
+    },
+    {
+      "text": "2014",
+      "label": "DATE",
+      "start": 107,
+      "end": 111
+    },
+    {
+      "text": "Kappa Award",
+      "label": "PERSON",
+      "start": 138,
+      "end": 149
+    },
+    {
+      "text": "Einstein",
+      "label": "PERSON",
+      "start": 174,
+      "end": 182
+    },
+    {
+      "text": "Quantum",
+      "label": "ORG",
+      "start": 191,
+      "end": 198
+    },
+    {
+      "text": "Ph.D. in Physics",
+      "label": "WORK_OF_ART",
+      "start": 243,
+      "end": 259
+    },
+    {
+      "text": "MIT",
+      "label": "ORG",
+      "start": 265,
+      "end": 268
+    },
+    {
+      "text": "Harvard",
+      "label": "ORG",
+      "start": 299,
+      "end": 306
+    },
+    {
+      "text": "Oxford University",
+      "label": "ORG",
+      "start": 350,
+      "end": 367
+    },
+    {
+      "text": "1976",
+      "label": "DATE",
+      "start": 396,
+      "end": 400
+    },
+    {
+      "text": "An Alfred P. Sloan Fellow",
+      "label": "PERSON",
+      "start": 402,
+      "end": 427
+    },
+    {
+      "text": "1990",
+      "label": "DATE",
+      "start": 431,
+      "end": 435
+    },
+    {
+      "text": "American Physical Society Fellow",
+      "label": "ORG",
+      "start": 440,
+      "end": 472
+    },
+    {
+      "text": "1993",
+      "label": "DATE",
+      "start": 476,
+      "end": 480
+    },
+    {
+      "text": "the Optical Society of America",
+      "label": "ORG",
+      "start": 497,
+      "end": 527
+    },
+    {
+      "text": "2010",
+      "label": "DATE",
+      "start": 531,
+      "end": 535
+    }
+  ],
+  "Abdus Salam": [
+    {
+      "text": "Mohammad Abdus Salam",
+      "label": "PERSON",
+      "start": 0,
+      "end": 20
+    },
+    {
+      "text": "29 January 1926",
+      "label": "DATE",
+      "start": 52,
+      "end": 67
+    },
+    {
+      "text": "November 1996",
+      "label": "DATE",
+      "start": 73,
+      "end": 86
+    },
+    {
+      "text": "Pakistani",
+      "label": "NORP",
+      "start": 94,
+      "end": 103
+    },
+    {
+      "text": "1979",
+      "label": "DATE",
+      "start": 141,
+      "end": 145
+    },
+    {
+      "text": "Nobel Prize in Physics",
+      "label": "WORK_OF_ART",
+      "start": 146,
+      "end": 168
+    },
+    {
+      "text": "Sheldon Glashow",
+      "label": "PERSON",
+      "start": 174,
+      "end": 189
+    },
+    {
+      "text": "Steven Weinberg",
+      "label": "PERSON",
+      "start": 194,
+      "end": 209
+    },
+    {
+      "text": "first",
+      "label": "ORDINAL",
+      "start": 281,
+      "end": 286
+    },
+    {
+      "text": "Pakistani",
+      "label": "NORP",
+      "start": 287,
+      "end": 296
+    },
+    {
+      "text": "first",
+      "label": "ORDINAL",
+      "start": 298,
+      "end": 303
+    },
+    {
+      "text": "Muslim",
+      "label": "NORP",
+      "start": 304,
+      "end": 310
+    },
+    {
+      "text": "second",
+      "label": "ORDINAL",
+      "start": 326,
+      "end": 332
+    },
+    {
+      "text": "Muslim",
+      "label": "NORP",
+      "start": 349,
+      "end": 355
+    },
+    {
+      "text": "Anwar Sadat",
+      "label": "PERSON",
+      "start": 371,
+      "end": 382
+    },
+    {
+      "text": "Egypt",
+      "label": "GPE",
+      "start": 386,
+      "end": 391
+    },
+    {
+      "text": "a Nobel Prize",
+      "label": "WORK_OF_ART",
+      "start": 400,
+      "end": 413
+    },
+    {
+      "text": "Salam",
+      "label": "PERSON",
+      "start": 415,
+      "end": 420
+    },
+    {
+      "text": "the Ministry of Science and Technology",
+      "label": "ORG",
+      "start": 447,
+      "end": 485
+    },
+    {
+      "text": "Pakistan",
+      "label": "GPE",
+      "start": 489,
+      "end": 497
+    },
+    {
+      "text": "1960 to 1974",
+      "label": "DATE",
+      "start": 503,
+      "end": 515
+    },
+    {
+      "text": "Salam",
+      "label": "PERSON",
+      "start": 638,
+      "end": 643
+    },
+    {
+      "text": "Pakistan",
+      "label": "GPE",
+      "start": 720,
+      "end": 728
+    },
+    {
+      "text": "the Theoretical Physics Group",
+      "label": "ORG",
+      "start": 865,
+      "end": 894
+    },
+    {
+      "text": "TPG",
+      "label": "ORG",
+      "start": 896,
+      "end": 899
+    },
+    {
+      "text": "1974",
+      "label": "DATE",
+      "start": 972,
+      "end": 976
+    },
+    {
+      "text": "Abdus Salam",
+      "label": "PERSON",
+      "start": 978,
+      "end": 989
+    },
+    {
+      "text": "Parliament of Pakistan",
+      "label": "ORG",
+      "start": 1037,
+      "end": 1059
+    },
+    {
+      "text": "Ahmadiyya Muslim",
+      "label": "NORP",
+      "start": 1125,
+      "end": 1141
+    },
+    {
+      "text": "Salam",
+      "label": "PERSON",
+      "start": 1162,
+      "end": 1167
+    },
+    {
+      "text": "non-Muslim",
+      "label": "NORP",
+      "start": 1178,
+      "end": 1188
+    },
+    {
+      "text": "1998",
+      "label": "DATE",
+      "start": 1193,
+      "end": 1197
+    },
+    {
+      "text": "the Government of Pakistan",
+      "label": "ORG",
+      "start": 1247,
+      "end": 1273
+    },
+    {
+      "text": "Pakistan",
+      "label": "GPE",
+      "start": 1332,
+      "end": 1340
+    },
+    {
+      "text": "Salam",
+      "label": "ORG",
+      "start": 1369,
+      "end": 1374
+    },
+    {
+      "text": "Salam",
+      "label": "PERSON",
+      "start": 1376,
+      "end": 1381
+    },
+    {
+      "text": "Salam",
+      "label": "PERSON",
+      "start": 1422,
+      "end": 1427
+    },
+    {
+      "text": "Jogesh Pati",
+      "label": "FAC",
+      "start": 1481,
+      "end": 1492
+    },
+    {
+      "text": "1974",
+      "label": "DATE",
+      "start": 1496,
+      "end": 1500
+    },
+    {
+      "text": "meson",
+      "label": "PERSON",
+      "start": 1526,
+      "end": 1531
+    },
+    {
+      "text": "the Nobel Prize",
+      "label": "WORK_OF_ART",
+      "start": 1622,
+      "end": 1637
+    },
+    {
+      "text": "Salam",
+      "label": "PERSON",
+      "start": 1639,
+      "end": 1644
+    },
+    {
+      "text": "Mathematics at",
+      "label": "ORG",
+      "start": 1721,
+      "end": 1735
+    },
+    {
+      "text": "Imperial College London",
+      "label": "ORG",
+      "start": 1736,
+      "end": 1759
+    },
+    {
+      "text": "Riazuddin",
+      "label": "PERSON",
+      "start": 1779,
+      "end": 1788
+    },
+    {
+      "text": "Salam",
+      "label": "PERSON",
+      "start": 1790,
+      "end": 1795
+    },
+    {
+      "text": "Salam",
+      "label": "PERSON",
+      "start": 2005,
+      "end": 2010
+    },
+    {
+      "text": "Pakistan",
+      "label": "GPE",
+      "start": 2103,
+      "end": 2111
+    },
+    {
+      "text": "Salam",
+      "label": "PERSON",
+      "start": 2178,
+      "end": 2183
+    },
+    {
+      "text": "Pakistani",
+      "label": "NORP",
+      "start": 2219,
+      "end": 2228
+    },
+    {
+      "text": "Salam",
+      "label": "PERSON",
+      "start": 2309,
+      "end": 2314
+    },
+    {
+      "text": "third",
+      "label": "ORDINAL",
+      "start": 2401,
+      "end": 2406
+    }
+  ],
+  "Abraham Pais": [
+    {
+      "text": "Abraham Pais",
+      "label": "PERSON",
+      "start": 0,
+      "end": 12
+    },
+    {
+      "text": "May 19, 1918 –",
+      "label": "DATE",
+      "start": 16,
+      "end": 30
+    },
+    {
+      "text": "July 28, 2000",
+      "label": "DATE",
+      "start": 31,
+      "end": 44
+    },
+    {
+      "text": "Dutch",
+      "label": "NORP",
+      "start": 52,
+      "end": 57
+    },
+    {
+      "text": "Ph.D.",
+      "label": "WORK_OF_ART",
+      "start": 116,
+      "end": 121
+    },
+    {
+      "text": "University of Utrecht",
+      "label": "ORG",
+      "start": 127,
+      "end": 148
+    },
+    {
+      "text": "Nazi",
+      "label": "NORP",
+      "start": 165,
+      "end": 169
+    },
+    {
+      "text": "Jewish",
+      "label": "NORP",
+      "start": 177,
+      "end": 183
+    },
+    {
+      "text": "Dutch",
+      "label": "NORP",
+      "start": 201,
+      "end": 206
+    },
+    {
+      "text": "World War II",
+      "label": "EVENT",
+      "start": 227,
+      "end": 239
+    },
+    {
+      "text": "Nazis",
+      "label": "NORP",
+      "start": 250,
+      "end": 255
+    },
+    {
+      "text": "Dutch",
+      "label": "NORP",
+      "start": 287,
+      "end": 292
+    },
+    {
+      "text": "Jews",
+      "label": "NORP",
+      "start": 293,
+      "end": 297
+    },
+    {
+      "text": "Niels Bohr",
+      "label": "PERSON",
+      "start": 415,
+      "end": 425
+    },
+    {
+      "text": "Denmark",
+      "label": "GPE",
+      "start": 429,
+      "end": 436
+    },
+    {
+      "text": "Albert Einstein",
+      "label": "PERSON",
+      "start": 466,
+      "end": 481
+    },
+    {
+      "text": "the Institute for Advanced Study",
+      "label": "ORG",
+      "start": 485,
+      "end": 517
+    },
+    {
+      "text": "Princeton",
+      "label": "GPE",
+      "start": 521,
+      "end": 530
+    },
+    {
+      "text": "New Jersey",
+      "label": "GPE",
+      "start": 532,
+      "end": 542
+    },
+    {
+      "text": "Pais",
+      "label": "ORG",
+      "start": 544,
+      "end": 548
+    },
+    {
+      "text": "two",
+      "label": "CARDINAL",
+      "start": 592,
+      "end": 595
+    },
+    {
+      "text": "Rockefeller University",
+      "label": "ORG",
+      "start": 705,
+      "end": 727
+    }
+  ],
+  "Absolute zero": [
+    {
+      "text": "Kelvin",
+      "label": "PERSON",
+      "start": 155,
+      "end": 161
+    },
+    {
+      "text": "zero",
+      "label": "CARDINAL",
+      "start": 196,
+      "end": 200
+    },
+    {
+      "text": "Celsius",
+      "label": "ORG",
+      "start": 241,
+      "end": 248
+    },
+    {
+      "text": "−459.67 °F",
+      "label": "PRODUCT",
+      "start": 260,
+      "end": 270
+    },
+    {
+      "text": "Fahrenheit",
+      "label": "ORG",
+      "start": 278,
+      "end": 288
+    },
+    {
+      "text": "Kelvin",
+      "label": "PERSON",
+      "start": 300,
+      "end": 306
+    },
+    {
+      "text": "zero",
+      "label": "CARDINAL",
+      "start": 348,
+      "end": 352
+    },
+    {
+      "text": "zero",
+      "label": "CARDINAL",
+      "start": 372,
+      "end": 376
+    },
+    {
+      "text": "zero",
+      "label": "CARDINAL",
+      "start": 533,
+      "end": 537
+    },
+    {
+      "text": "zero",
+      "label": "CARDINAL",
+      "start": 557,
+      "end": 561
+    },
+    {
+      "text": "third",
+      "label": "ORDINAL",
+      "start": 748,
+      "end": 753
+    },
+    {
+      "text": "zero",
+      "label": "CARDINAL",
+      "start": 828,
+      "end": 832
+    },
+    {
+      "text": "the 21st century",
+      "label": "DATE",
+      "start": 999,
+      "end": 1015
+    },
+    {
+      "text": "Bose–Einstein",
+      "label": "PERSON",
+      "start": 1207,
+      "end": 1220
+    },
+    {
+      "text": "zero",
+      "label": "CARDINAL",
+      "start": 1263,
+      "end": 1267
+    },
+    {
+      "text": "Heisenberg",
+      "label": "GPE",
+      "start": 1308,
+      "end": 1318
+    },
+    {
+      "text": "Pauli",
+      "label": "GPE",
+      "start": 1376,
+      "end": 1381
+    }
+  ],
+  "Accuracy": [
+    {
+      "text": "Accuracy",
+      "label": "PERSON",
+      "start": 0,
+      "end": 8
+    },
+    {
+      "text": "The International Organization for Standardization (ISO",
+      "label": "ORG",
+      "start": 194,
+      "end": 249
+    },
+    {
+      "text": "two",
+      "label": "CARDINAL",
+      "start": 524,
+      "end": 527
+    },
+    {
+      "text": "ISO",
+      "label": "ORG",
+      "start": 879,
+      "end": 882
+    },
+    {
+      "text": "two",
+      "label": "CARDINAL",
+      "start": 960,
+      "end": 963
+    },
+    {
+      "text": "ISO",
+      "label": "ORG",
+      "start": 1114,
+      "end": 1117
+    }
+  ],
+  "Acoustics": [
+    {
+      "text": "one",
+      "label": "CARDINAL",
+      "start": 577,
+      "end": 580
+    },
+    {
+      "text": "Robert Bruce Lindsay's",
+      "label": "PERSON",
+      "start": 1068,
+      "end": 1090
+    }
+  ],
+  "Acta Physica Polonica B": [
+    {
+      "text": "Acta Physica Polonica",
+      "label": "PERSON",
+      "start": 0,
+      "end": 21
+    },
+    {
+      "text": "the Polish Physical Society",
+      "label": "ORG",
+      "start": 125,
+      "end": 152
+    },
+    {
+      "text": "1920",
+      "label": "DATE",
+      "start": 156,
+      "end": 160
+    },
+    {
+      "text": "Comptes Rendus des Séances de la Société Polonaise de Physique",
+      "label": "ORG",
+      "start": 164,
+      "end": 226
+    },
+    {
+      "text": "1970",
+      "label": "DATE",
+      "start": 231,
+      "end": 235
+    },
+    {
+      "text": "two",
+      "label": "CARDINAL",
+      "start": 255,
+      "end": 258
+    },
+    {
+      "text": "Acta Physica Polonica",
+      "label": "ORG",
+      "start": 268,
+      "end": 289
+    },
+    {
+      "text": "Acta Physica",
+      "label": "PERSON",
+      "start": 296,
+      "end": 308
+    },
+    {
+      "text": "two",
+      "label": "CARDINAL",
+      "start": 325,
+      "end": 328
+    },
+    {
+      "text": "1995",
+      "label": "DATE",
+      "start": 360,
+      "end": 364
+    },
+    {
+      "text": "the Institute of Physics of the Polish Academy of Sciences",
+      "label": "ORG",
+      "start": 393,
+      "end": 451
+    },
+    {
+      "text": "the Jagiellonian University",
+      "label": "ORG",
+      "start": 478,
+      "end": 505
+    },
+    {
+      "text": "the Polish Academy of Arts and Sciences",
+      "label": "ORG",
+      "start": 526,
+      "end": 565
+    }
+  ],
+  "Action at a distance": [
+    {
+      "text": "two",
+      "label": "CARDINAL",
+      "start": 117,
+      "end": 120
+    },
+    {
+      "text": "Coulomb",
+      "label": "PERSON",
+      "start": 244,
+      "end": 251
+    },
+    {
+      "text": "Newton",
+      "label": "GPE",
+      "start": 262,
+      "end": 268
+    },
+    {
+      "text": "the 19th and 20th centuries",
+      "label": "DATE",
+      "start": 490,
+      "end": 517
+    },
+    {
+      "text": "four",
+      "label": "CARDINAL",
+      "start": 755,
+      "end": 759
+    }
+  ],
+  "Action principle": [
+    {
+      "text": "Feynman",
+      "label": "ORG",
+      "start": 358,
+      "end": 365
+    },
+    {
+      "text": "SI",
+      "label": "ORG",
+      "start": 1216,
+      "end": 1218
+    },
+    {
+      "text": "joule-second",
+      "label": "PERSON",
+      "start": 1227,
+      "end": 1239
+    }
+  ],
+  "Adrian Kent": [
+    {
+      "text": "Adrian Kent",
+      "label": "PERSON",
+      "start": 0,
+      "end": 11
+    },
+    {
+      "text": "British",
+      "label": "NORP",
+      "start": 17,
+      "end": 24
+    },
+    {
+      "text": "the University of Cambridge",
+      "label": "ORG",
+      "start": 69,
+      "end": 96
+    },
+    {
+      "text": "the Centre for Quantum Information",
+      "label": "ORG",
+      "start": 108,
+      "end": 142
+    },
+    {
+      "text": "the Perimeter Institute for Theoretical Physics",
+      "label": "ORG",
+      "start": 205,
+      "end": 252
+    },
+    {
+      "text": "1999",
+      "label": "DATE",
+      "start": 357,
+      "end": 361
+    },
+    {
+      "text": "first",
+      "label": "ORDINAL",
+      "start": 379,
+      "end": 384
+    },
+    {
+      "text": "first",
+      "label": "ORDINAL",
+      "start": 486,
+      "end": 491
+    },
+    {
+      "text": "first",
+      "label": "ORDINAL",
+      "start": 620,
+      "end": 625
+    },
+    {
+      "text": "2005",
+      "label": "DATE",
+      "start": 678,
+      "end": 682
+    },
+    {
+      "text": "Lucien Hardy",
+      "label": "PERSON",
+      "start": 701,
+      "end": 713
+    },
+    {
+      "text": "Jonathan Barrett",
+      "label": "PERSON",
+      "start": 718,
+      "end": 734
+    },
+    {
+      "text": "first",
+      "label": "ORDINAL",
+      "start": 739,
+      "end": 744
+    }
+  ]
+}
